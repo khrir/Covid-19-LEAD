@@ -10,7 +10,7 @@ df = pd.read_csv("covid19.csv")
 cdf = df[['state', 'last_available_confirmed', 'last_available_deaths']]
 
 # Create a mask
-msk = np.random.rand(len(df)) < 0.6
+msk = np.random.rand(len(df)) < 0.8
 train = cdf[msk]
 test = cdf[~msk]
 
