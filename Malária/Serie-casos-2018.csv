@@ -1,0 +1,4648 @@
+﻿BR Cod Mun Infecção,NM MUN (MUNINF.csv),Year of BR Data de Notificação,Number of Records
+110001,Alta Floresta D'Oeste,2018,2
+110001,Alta Floresta D'Oeste,2017,2
+110001,Alta Floresta D'Oeste,2016,6
+110001,Alta Floresta D'Oeste,2015,30
+110001,Alta Floresta D'Oeste,2014,79
+110001,Alta Floresta D'Oeste,2013,73
+110001,Alta Floresta D'Oeste,2012,36
+110001,Alta Floresta D'Oeste,2011,17
+110001,Alta Floresta D'Oeste,2010,41
+110001,Alta Floresta D'Oeste,2009,79
+110001,Alta Floresta D'Oeste,2008,210
+110001,Alta Floresta D'Oeste,2007,263
+110002,Ariquemes,2018,633
+110002,Ariquemes,2017,117
+110002,Ariquemes,2016,98
+110002,Ariquemes,2015,55
+110002,Ariquemes,2014,81
+110002,Ariquemes,2013,176
+110002,Ariquemes,2012,209
+110002,Ariquemes,2011,514
+110002,Ariquemes,2010,1264
+110002,Ariquemes,2009,1093
+110002,Ariquemes,2008,1156
+110002,Ariquemes,2007,1867
+110003,Cabixi,2018,1
+110003,Cabixi,2017,1
+110003,Cabixi,2016,3
+110003,Cabixi,2013,1
+110003,Cabixi,2011,1
+110003,Cabixi,2010,6
+110003,Cabixi,2009,2
+110003,Cabixi,2007,11
+110004,Cacoal,2018,2
+110004,Cacoal,2017,5
+110004,Cacoal,2016,1
+110004,Cacoal,2015,5
+110004,Cacoal,2014,2
+110004,Cacoal,2013,5
+110004,Cacoal,2012,14
+110004,Cacoal,2011,10
+110004,Cacoal,2010,22
+110004,Cacoal,2009,31
+110004,Cacoal,2008,31
+110004,Cacoal,2007,43
+110005,Cerejeiras,2016,1
+110005,Cerejeiras,2012,1
+110005,Cerejeiras,2011,1
+110005,Cerejeiras,2010,3
+110005,Cerejeiras,2008,4
+110005,Cerejeiras,2007,8
+110006,Colorado do Oeste,2018,1
+110006,Colorado do Oeste,2015,1
+110006,Colorado do Oeste,2013,1
+110006,Colorado do Oeste,2012,1
+110006,Colorado do Oeste,2011,1
+110006,Colorado do Oeste,2010,1
+110006,Colorado do Oeste,2008,3
+110006,Colorado do Oeste,2007,7
+110007,Corumbiara,2012,1
+110007,Corumbiara,2011,1
+110007,Corumbiara,2010,4
+110007,Corumbiara,2009,2
+110007,Corumbiara,2008,3
+110007,Corumbiara,2007,4
+110008,Costa Marques,2018,11
+110008,Costa Marques,2017,16
+110008,Costa Marques,2016,94
+110008,Costa Marques,2015,55
+110008,Costa Marques,2014,42
+110008,Costa Marques,2013,110
+110008,Costa Marques,2012,196
+110008,Costa Marques,2011,180
+110008,Costa Marques,2010,390
+110008,Costa Marques,2009,226
+110008,Costa Marques,2008,292
+110008,Costa Marques,2007,522
+110009,Espigão D'Oeste,2018,1
+110009,Espigão D'Oeste,2015,4
+110009,Espigão D'Oeste,2014,2
+110009,Espigão D'Oeste,2013,2
+110009,Espigão D'Oeste,2012,16
+110009,Espigão D'Oeste,2011,19
+110009,Espigão D'Oeste,2010,960
+110009,Espigão D'Oeste,2009,1047
+110009,Espigão D'Oeste,2008,861
+110009,Espigão D'Oeste,2007,54
+110010,Guajará-Mirim,2018,316
+110010,Guajará-Mirim,2017,311
+110010,Guajará-Mirim,2016,285
+110010,Guajará-Mirim,2015,504
+110010,Guajará-Mirim,2014,331
+110010,Guajará-Mirim,2013,483
+110010,Guajará-Mirim,2012,582
+110010,Guajará-Mirim,2011,654
+110010,Guajará-Mirim,2010,1635
+110010,Guajará-Mirim,2009,695
+110010,Guajará-Mirim,2008,1153
+110010,Guajará-Mirim,2007,2913
+110011,Jaru,2018,2
+110011,Jaru,2017,6
+110011,Jaru,2016,6
+110011,Jaru,2015,3
+110011,Jaru,2014,3
+110011,Jaru,2013,15
+110011,Jaru,2012,20
+110011,Jaru,2011,28
+110011,Jaru,2010,33
+110011,Jaru,2009,48
+110011,Jaru,2008,73
+110011,Jaru,2007,127
+110012,Ji-Paraná,2018,8
+110012,Ji-Paraná,2017,1
+110012,Ji-Paraná,2016,4
+110012,Ji-Paraná,2015,5
+110012,Ji-Paraná,2014,6
+110012,Ji-Paraná,2013,27
+110012,Ji-Paraná,2012,41
+110012,Ji-Paraná,2011,69
+110012,Ji-Paraná,2010,113
+110012,Ji-Paraná,2009,49
+110012,Ji-Paraná,2008,58
+110012,Ji-Paraná,2007,90
+110013,Machadinho D'Oeste,2018,337
+110013,Machadinho D'Oeste,2017,704
+110013,Machadinho D'Oeste,2016,1214
+110013,Machadinho D'Oeste,2015,641
+110013,Machadinho D'Oeste,2014,323
+110013,Machadinho D'Oeste,2013,752
+110013,Machadinho D'Oeste,2012,1373
+110013,Machadinho D'Oeste,2011,2164
+110013,Machadinho D'Oeste,2010,3033
+110013,Machadinho D'Oeste,2009,3116
+110013,Machadinho D'Oeste,2008,3072
+110013,Machadinho D'Oeste,2007,5226
+110014,Nova Brasilândia D'Oeste,2017,1
+110014,Nova Brasilândia D'Oeste,2016,3
+110014,Nova Brasilândia D'Oeste,2015,1
+110014,Nova Brasilândia D'Oeste,2014,5
+110014,Nova Brasilândia D'Oeste,2013,5
+110014,Nova Brasilândia D'Oeste,2012,2
+110014,Nova Brasilândia D'Oeste,2011,18
+110014,Nova Brasilândia D'Oeste,2010,77
+110014,Nova Brasilândia D'Oeste,2009,64
+110014,Nova Brasilândia D'Oeste,2008,26
+110014,Nova Brasilândia D'Oeste,2007,151
+110015,Ouro Preto do Oeste,2018,5
+110015,Ouro Preto do Oeste,2017,5
+110015,Ouro Preto do Oeste,2016,15
+110015,Ouro Preto do Oeste,2015,2
+110015,Ouro Preto do Oeste,2014,4
+110015,Ouro Preto do Oeste,2013,9
+110015,Ouro Preto do Oeste,2012,14
+110015,Ouro Preto do Oeste,2011,9
+110015,Ouro Preto do Oeste,2010,11
+110015,Ouro Preto do Oeste,2009,8
+110015,Ouro Preto do Oeste,2008,26
+110015,Ouro Preto do Oeste,2007,24
+110018,Pimenta Bueno,2017,1
+110018,Pimenta Bueno,2016,3
+110018,Pimenta Bueno,2015,1
+110018,Pimenta Bueno,2014,8
+110018,Pimenta Bueno,2013,4
+110018,Pimenta Bueno,2012,13
+110018,Pimenta Bueno,2011,15
+110018,Pimenta Bueno,2010,39
+110018,Pimenta Bueno,2009,103
+110018,Pimenta Bueno,2008,25
+110018,Pimenta Bueno,2007,16
+110020,Porto Velho,2018,3374
+110020,Porto Velho,2017,2717
+110020,Porto Velho,2016,2887
+110020,Porto Velho,2015,3392
+110020,Porto Velho,2014,6220
+110020,Porto Velho,2013,8837
+110020,Porto Velho,2012,15567
+110020,Porto Velho,2011,16755
+110020,Porto Velho,2010,23641
+110020,Porto Velho,2009,20289
+110020,Porto Velho,2008,22374
+110020,Porto Velho,2007,33472
+110025,Presidente Médici,2018,1
+110025,Presidente Médici,2014,3
+110025,Presidente Médici,2013,2
+110025,Presidente Médici,2012,2
+110025,Presidente Médici,2011,14
+110025,Presidente Médici,2010,42
+110025,Presidente Médici,2009,22
+110025,Presidente Médici,2008,24
+110025,Presidente Médici,2007,108
+110026,Rio Crespo,2018,54
+110026,Rio Crespo,2017,42
+110026,Rio Crespo,2016,70
+110026,Rio Crespo,2015,15
+110026,Rio Crespo,2014,90
+110026,Rio Crespo,2013,77
+110026,Rio Crespo,2012,88
+110026,Rio Crespo,2011,185
+110026,Rio Crespo,2010,655
+110026,Rio Crespo,2009,723
+110026,Rio Crespo,2008,660
+110026,Rio Crespo,2007,582
+110028,Rolim de Moura,2016,4
+110028,Rolim de Moura,2015,1
+110028,Rolim de Moura,2014,6
+110028,Rolim de Moura,2013,8
+110028,Rolim de Moura,2012,7
+110028,Rolim de Moura,2011,8
+110028,Rolim de Moura,2010,8
+110028,Rolim de Moura,2009,12
+110028,Rolim de Moura,2008,12
+110028,Rolim de Moura,2007,16
+110029,Santa Luzia D'Oeste,2017,1
+110029,Santa Luzia D'Oeste,2014,1
+110029,Santa Luzia D'Oeste,2013,1
+110029,Santa Luzia D'Oeste,2012,1
+110029,Santa Luzia D'Oeste,2011,1
+110029,Santa Luzia D'Oeste,2009,1
+110029,Santa Luzia D'Oeste,2008,1
+110029,Santa Luzia D'Oeste,2007,7
+110030,Vilhena,2018,12
+110030,Vilhena,2017,3
+110030,Vilhena,2015,4
+110030,Vilhena,2014,4
+110030,Vilhena,2013,11
+110030,Vilhena,2012,13
+110030,Vilhena,2011,8
+110030,Vilhena,2010,44
+110030,Vilhena,2009,43
+110030,Vilhena,2008,18
+110030,Vilhena,2007,67
+110032,São Miguel do Guaporé,2018,3
+110032,São Miguel do Guaporé,2017,1
+110032,São Miguel do Guaporé,2016,2
+110032,São Miguel do Guaporé,2015,3
+110032,São Miguel do Guaporé,2014,5
+110032,São Miguel do Guaporé,2013,8
+110032,São Miguel do Guaporé,2012,16
+110032,São Miguel do Guaporé,2011,52
+110032,São Miguel do Guaporé,2010,156
+110032,São Miguel do Guaporé,2009,63
+110032,São Miguel do Guaporé,2008,65
+110032,São Miguel do Guaporé,2007,108
+110033,Nova Mamoré,2018,194
+110033,Nova Mamoré,2017,85
+110033,Nova Mamoré,2016,145
+110033,Nova Mamoré,2015,199
+110033,Nova Mamoré,2014,201
+110033,Nova Mamoré,2013,199
+110033,Nova Mamoré,2012,449
+110033,Nova Mamoré,2011,762
+110033,Nova Mamoré,2010,1034
+110033,Nova Mamoré,2009,719
+110033,Nova Mamoré,2008,1797
+110033,Nova Mamoré,2007,6362
+110034,Alvorada D'Oeste,2018,6
+110034,Alvorada D'Oeste,2017,3
+110034,Alvorada D'Oeste,2016,23
+110034,Alvorada D'Oeste,2015,26
+110034,Alvorada D'Oeste,2014,37
+110034,Alvorada D'Oeste,2013,16
+110034,Alvorada D'Oeste,2012,31
+110034,Alvorada D'Oeste,2011,35
+110034,Alvorada D'Oeste,2010,46
+110034,Alvorada D'Oeste,2009,84
+110034,Alvorada D'Oeste,2008,113
+110034,Alvorada D'Oeste,2007,267
+110037,Alto Alegre dos Parecis,2018,4
+110037,Alto Alegre dos Parecis,2016,1
+110037,Alto Alegre dos Parecis,2013,7
+110037,Alto Alegre dos Parecis,2012,6
+110037,Alto Alegre dos Parecis,2011,3
+110037,Alto Alegre dos Parecis,2010,12
+110037,Alto Alegre dos Parecis,2008,2
+110037,Alto Alegre dos Parecis,2007,5
+110040,Alto Paraíso,2018,202
+110040,Alto Paraíso,2017,206
+110040,Alto Paraíso,2016,213
+110040,Alto Paraíso,2015,329
+110040,Alto Paraíso,2014,30
+110040,Alto Paraíso,2013,45
+110040,Alto Paraíso,2012,133
+110040,Alto Paraíso,2011,562
+110040,Alto Paraíso,2010,1140
+110040,Alto Paraíso,2009,1166
+110040,Alto Paraíso,2008,1705
+110040,Alto Paraíso,2007,2662
+110045,Buritis,2018,6
+110045,Buritis,2017,18
+110045,Buritis,2016,82
+110045,Buritis,2015,117
+110045,Buritis,2014,46
+110045,Buritis,2013,160
+110045,Buritis,2012,181
+110045,Buritis,2011,333
+110045,Buritis,2010,505
+110045,Buritis,2009,582
+110045,Buritis,2008,1240
+110045,Buritis,2007,2455
+110050,Novo Horizonte do Oeste,2018,1
+110050,Novo Horizonte do Oeste,2017,2
+110050,Novo Horizonte do Oeste,2011,1
+110050,Novo Horizonte do Oeste,2010,1
+110050,Novo Horizonte do Oeste,2009,2
+110050,Novo Horizonte do Oeste,2008,3
+110050,Novo Horizonte do Oeste,2007,7
+110060,Cacaulândia,2018,2
+110060,Cacaulândia,2017,1
+110060,Cacaulândia,2016,10
+110060,Cacaulândia,2015,1
+110060,Cacaulândia,2014,6
+110060,Cacaulândia,2013,5
+110060,Cacaulândia,2012,12
+110060,Cacaulândia,2011,27
+110060,Cacaulândia,2010,28
+110060,Cacaulândia,2009,71
+110060,Cacaulândia,2008,75
+110060,Cacaulândia,2007,97
+110070,Campo Novo de Rondônia,2018,7
+110070,Campo Novo de Rondônia,2017,11
+110070,Campo Novo de Rondônia,2016,6
+110070,Campo Novo de Rondônia,2015,14
+110070,Campo Novo de Rondônia,2014,39
+110070,Campo Novo de Rondônia,2013,82
+110070,Campo Novo de Rondônia,2012,256
+110070,Campo Novo de Rondônia,2011,378
+110070,Campo Novo de Rondônia,2010,428
+110070,Campo Novo de Rondônia,2009,850
+110070,Campo Novo de Rondônia,2008,1665
+110070,Campo Novo de Rondônia,2007,2792
+110080,Candeias do Jamari,2018,1701
+110080,Candeias do Jamari,2017,1633
+110080,Candeias do Jamari,2016,991
+110080,Candeias do Jamari,2015,1111
+110080,Candeias do Jamari,2014,1493
+110080,Candeias do Jamari,2013,1716
+110080,Candeias do Jamari,2012,2925
+110080,Candeias do Jamari,2011,4470
+110080,Candeias do Jamari,2010,4182
+110080,Candeias do Jamari,2009,3779
+110080,Candeias do Jamari,2008,4388
+110080,Candeias do Jamari,2007,7028
+110090,Castanheiras,2013,2
+110090,Castanheiras,2012,2
+110090,Castanheiras,2011,3
+110090,Castanheiras,2010,24
+110090,Castanheiras,2009,9
+110090,Castanheiras,2008,27
+110090,Castanheiras,2007,68
+110092,Chupinguaia,2018,2
+110092,Chupinguaia,2017,1
+110092,Chupinguaia,2015,1
+110092,Chupinguaia,2014,5
+110092,Chupinguaia,2013,4
+110092,Chupinguaia,2012,1
+110092,Chupinguaia,2011,5
+110092,Chupinguaia,2010,8
+110092,Chupinguaia,2009,15
+110092,Chupinguaia,2008,18
+110092,Chupinguaia,2007,61
+110094,Cujubim,2018,321
+110094,Cujubim,2017,342
+110094,Cujubim,2016,299
+110094,Cujubim,2015,130
+110094,Cujubim,2014,321
+110094,Cujubim,2013,519
+110094,Cujubim,2012,539
+110094,Cujubim,2011,1437
+110094,Cujubim,2010,1947
+110094,Cujubim,2009,2542
+110094,Cujubim,2008,2084
+110094,Cujubim,2007,3331
+110100,Governador Jorge Teixeira,2017,1
+110100,Governador Jorge Teixeira,2016,2
+110100,Governador Jorge Teixeira,2015,1
+110100,Governador Jorge Teixeira,2014,3
+110100,Governador Jorge Teixeira,2013,9
+110100,Governador Jorge Teixeira,2012,7
+110100,Governador Jorge Teixeira,2011,4
+110100,Governador Jorge Teixeira,2010,16
+110100,Governador Jorge Teixeira,2009,155
+110100,Governador Jorge Teixeira,2008,242
+110100,Governador Jorge Teixeira,2007,75
+110110,Itapuã do Oeste,2018,488
+110110,Itapuã do Oeste,2017,464
+110110,Itapuã do Oeste,2016,225
+110110,Itapuã do Oeste,2015,49
+110110,Itapuã do Oeste,2014,92
+110110,Itapuã do Oeste,2013,152
+110110,Itapuã do Oeste,2012,287
+110110,Itapuã do Oeste,2011,383
+110110,Itapuã do Oeste,2010,745
+110110,Itapuã do Oeste,2009,688
+110110,Itapuã do Oeste,2008,1072
+110110,Itapuã do Oeste,2007,2592
+110120,Ministro Andreazza,2017,3
+110120,Ministro Andreazza,2015,1
+110120,Ministro Andreazza,2013,1
+110120,Ministro Andreazza,2010,2
+110120,Ministro Andreazza,2008,2
+110120,Ministro Andreazza,2007,5
+110130,Mirante da Serra,2016,2
+110130,Mirante da Serra,2014,1
+110130,Mirante da Serra,2013,3
+110130,Mirante da Serra,2012,10
+110130,Mirante da Serra,2011,3
+110130,Mirante da Serra,2010,17
+110130,Mirante da Serra,2009,10
+110130,Mirante da Serra,2008,17
+110130,Mirante da Serra,2007,202
+110140,Monte Negro,2018,13
+110140,Monte Negro,2017,11
+110140,Monte Negro,2016,67
+110140,Monte Negro,2015,48
+110140,Monte Negro,2014,41
+110140,Monte Negro,2013,77
+110140,Monte Negro,2012,108
+110140,Monte Negro,2011,140
+110140,Monte Negro,2010,170
+110140,Monte Negro,2009,399
+110140,Monte Negro,2008,350
+110140,Monte Negro,2007,805
+110143,Nova União,2017,1
+110143,Nova União,2013,1
+110143,Nova União,2011,8
+110143,Nova União,2010,19
+110143,Nova União,2009,11
+110143,Nova União,2008,15
+110143,Nova União,2007,28
+110145,Parecis,2014,1
+110145,Parecis,2010,2
+110145,Parecis,2009,3
+110145,Parecis,2008,3
+110145,Parecis,2007,3
+110146,Pimenteiras do Oeste,2017,1
+110146,Pimenteiras do Oeste,2015,1
+110146,Pimenteiras do Oeste,2014,2
+110146,Pimenteiras do Oeste,2013,10
+110146,Pimenteiras do Oeste,2012,16
+110146,Pimenteiras do Oeste,2011,56
+110146,Pimenteiras do Oeste,2010,65
+110146,Pimenteiras do Oeste,2009,15
+110146,Pimenteiras do Oeste,2008,34
+110146,Pimenteiras do Oeste,2007,48
+110147,Primavera de Rondônia,2013,1
+110147,Primavera de Rondônia,2012,1
+110147,Primavera de Rondônia,2011,8
+110147,Primavera de Rondônia,2010,2
+110147,Primavera de Rondônia,2009,1
+110147,Primavera de Rondônia,2008,5
+110147,Primavera de Rondônia,2007,5
+110148,São Felipe D'Oeste,2013,2
+110148,São Felipe D'Oeste,2011,1
+110148,São Felipe D'Oeste,2010,1
+110148,São Felipe D'Oeste,2009,1
+110148,São Felipe D'Oeste,2008,1
+110148,São Felipe D'Oeste,2007,2
+110149,São Francisco do Guaporé,2018,3
+110149,São Francisco do Guaporé,2017,1
+110149,São Francisco do Guaporé,2016,10
+110149,São Francisco do Guaporé,2015,14
+110149,São Francisco do Guaporé,2014,23
+110149,São Francisco do Guaporé,2013,39
+110149,São Francisco do Guaporé,2012,23
+110149,São Francisco do Guaporé,2011,18
+110149,São Francisco do Guaporé,2010,36
+110149,São Francisco do Guaporé,2009,80
+110149,São Francisco do Guaporé,2008,197
+110149,São Francisco do Guaporé,2007,349
+110150,Seringueiras,2018,4
+110150,Seringueiras,2016,2
+110150,Seringueiras,2015,3
+110150,Seringueiras,2014,3
+110150,Seringueiras,2013,7
+110150,Seringueiras,2012,13
+110150,Seringueiras,2011,31
+110150,Seringueiras,2010,13
+110150,Seringueiras,2009,28
+110150,Seringueiras,2008,84
+110150,Seringueiras,2007,40
+110155,Teixeirópolis,2017,1
+110155,Teixeirópolis,2016,1
+110155,Teixeirópolis,2014,1
+110155,Teixeirópolis,2013,3
+110155,Teixeirópolis,2011,1
+110155,Teixeirópolis,2010,4
+110155,Teixeirópolis,2007,2
+110160,Theobroma,2018,5
+110160,Theobroma,2017,20
+110160,Theobroma,2016,2
+110160,Theobroma,2015,2
+110160,Theobroma,2014,1
+110160,Theobroma,2013,13
+110160,Theobroma,2012,8
+110160,Theobroma,2011,26
+110160,Theobroma,2010,53
+110160,Theobroma,2009,136
+110160,Theobroma,2008,326
+110160,Theobroma,2007,765
+110170,Urupá,2018,1
+110170,Urupá,2017,1
+110170,Urupá,2016,2
+110170,Urupá,2015,2
+110170,Urupá,2014,3
+110170,Urupá,2013,5
+110170,Urupá,2012,2
+110170,Urupá,2011,7
+110170,Urupá,2010,3
+110170,Urupá,2009,11
+110170,Urupá,2008,11
+110170,Urupá,2007,59
+110175,Vale do Anari,2018,9
+110175,Vale do Anari,2017,20
+110175,Vale do Anari,2016,36
+110175,Vale do Anari,2015,14
+110175,Vale do Anari,2014,52
+110175,Vale do Anari,2013,263
+110175,Vale do Anari,2012,168
+110175,Vale do Anari,2011,148
+110175,Vale do Anari,2010,320
+110175,Vale do Anari,2009,696
+110175,Vale do Anari,2008,824
+110175,Vale do Anari,2007,1009
+110180,Vale do Paraíso,2018,1
+110180,Vale do Paraíso,2016,1
+110180,Vale do Paraíso,2015,1
+110180,Vale do Paraíso,2012,2
+110180,Vale do Paraíso,2011,2
+110180,Vale do Paraíso,2010,1
+110180,Vale do Paraíso,2009,5
+110180,Vale do Paraíso,2008,23
+110180,Vale do Paraíso,2007,40
+120001,Acrelândia,2018,100
+120001,Acrelândia,2017,93
+120001,Acrelândia,2016,27
+120001,Acrelândia,2015,32
+120001,Acrelândia,2014,120
+120001,Acrelândia,2013,544
+120001,Acrelândia,2012,61
+120001,Acrelândia,2011,57
+120001,Acrelândia,2010,134
+120001,Acrelândia,2009,70
+120001,Acrelândia,2008,263
+120001,Acrelândia,2007,863
+120005,Assis Brasil,2018,1
+120005,Assis Brasil,2017,1
+120005,Assis Brasil,2016,2
+120005,Assis Brasil,2015,2
+120005,Assis Brasil,2014,2
+120005,Assis Brasil,2013,15
+120005,Assis Brasil,2012,25
+120005,Assis Brasil,2011,4
+120005,Assis Brasil,2010,4
+120005,Assis Brasil,2008,3
+120005,Assis Brasil,2007,2
+120010,Brasiléia,2018,1
+120010,Brasiléia,2015,3
+120010,Brasiléia,2013,2
+120010,Brasiléia,2012,3
+120010,Brasiléia,2011,5
+120010,Brasiléia,2010,5
+120010,Brasiléia,2008,4
+120010,Brasiléia,2007,9
+120013,Bujari,2018,7
+120013,Bujari,2017,12
+120013,Bujari,2016,48
+120013,Bujari,2015,17
+120013,Bujari,2014,202
+120013,Bujari,2013,3
+120013,Bujari,2012,3
+120013,Bujari,2011,9
+120013,Bujari,2010,30
+120013,Bujari,2009,10
+120013,Bujari,2008,60
+120013,Bujari,2007,211
+120017,Capixaba,2018,4
+120017,Capixaba,2017,7
+120017,Capixaba,2016,7
+120017,Capixaba,2015,9
+120017,Capixaba,2014,4
+120017,Capixaba,2013,3
+120017,Capixaba,2012,10
+120017,Capixaba,2011,6
+120017,Capixaba,2010,32
+120017,Capixaba,2009,29
+120017,Capixaba,2008,62
+120017,Capixaba,2007,134
+120020,Cruzeiro do Sul,2018,12932
+120020,Cruzeiro do Sul,2017,20910
+120020,Cruzeiro do Sul,2016,19031
+120020,Cruzeiro do Sul,2015,13950
+120020,Cruzeiro do Sul,2014,17200
+120020,Cruzeiro do Sul,2013,19734
+120020,Cruzeiro do Sul,2012,16054
+120020,Cruzeiro do Sul,2011,12678
+120020,Cruzeiro do Sul,2010,21632
+120020,Cruzeiro do Sul,2009,14700
+120020,Cruzeiro do Sul,2008,13469
+120020,Cruzeiro do Sul,2007,26371
+120025,Epitaciolândia,2015,2
+120025,Epitaciolândia,2014,1
+120025,Epitaciolândia,2013,1
+120025,Epitaciolândia,2011,1
+120025,Epitaciolândia,2010,2
+120025,Epitaciolândia,2009,6
+120025,Epitaciolândia,2008,1
+120025,Epitaciolândia,2007,6
+120030,Feijó,2018,6
+120030,Feijó,2017,6
+120030,Feijó,2016,4
+120030,Feijó,2015,9
+120030,Feijó,2014,41
+120030,Feijó,2013,6
+120030,Feijó,2012,16
+120030,Feijó,2011,5
+120030,Feijó,2010,32
+120030,Feijó,2009,7
+120030,Feijó,2008,10
+120030,Feijó,2007,107
+120032,Jordão,2018,2
+120032,Jordão,2017,8
+120032,Jordão,2016,9
+120032,Jordão,2015,15
+120032,Jordão,2014,46
+120032,Jordão,2013,36
+120032,Jordão,2012,39
+120032,Jordão,2011,7
+120032,Jordão,2010,77
+120032,Jordão,2009,225
+120032,Jordão,2008,232
+120032,Jordão,2007,184
+120033,Mâncio Lima,2018,7881
+120033,Mâncio Lima,2017,9343
+120033,Mâncio Lima,2016,7685
+120033,Mâncio Lima,2015,5383
+120033,Mâncio Lima,2014,6076
+120033,Mâncio Lima,2013,7416
+120033,Mâncio Lima,2012,5206
+120033,Mâncio Lima,2011,4775
+120033,Mâncio Lima,2010,5729
+120033,Mâncio Lima,2009,5047
+120033,Mâncio Lima,2008,4444
+120033,Mâncio Lima,2007,6690
+120034,Manoel Urbano,2018,2
+120034,Manoel Urbano,2015,1
+120034,Manoel Urbano,2014,5
+120034,Manoel Urbano,2013,5
+120034,Manoel Urbano,2012,2
+120034,Manoel Urbano,2011,1
+120034,Manoel Urbano,2009,7
+120034,Manoel Urbano,2008,2
+120034,Manoel Urbano,2007,4
+120035,Marechal Thaumaturgo,2018,76
+120035,Marechal Thaumaturgo,2017,76
+120035,Marechal Thaumaturgo,2016,64
+120035,Marechal Thaumaturgo,2015,63
+120035,Marechal Thaumaturgo,2014,98
+120035,Marechal Thaumaturgo,2013,80
+120035,Marechal Thaumaturgo,2012,85
+120035,Marechal Thaumaturgo,2011,55
+120035,Marechal Thaumaturgo,2010,174
+120035,Marechal Thaumaturgo,2009,199
+120035,Marechal Thaumaturgo,2008,69
+120035,Marechal Thaumaturgo,2007,170
+120038,Plácido de Castro,2018,12
+120038,Plácido de Castro,2017,70
+120038,Plácido de Castro,2016,27
+120038,Plácido de Castro,2015,48
+120038,Plácido de Castro,2014,51
+120038,Plácido de Castro,2013,125
+120038,Plácido de Castro,2012,48
+120038,Plácido de Castro,2011,169
+120038,Plácido de Castro,2010,479
+120038,Plácido de Castro,2009,246
+120038,Plácido de Castro,2008,395
+120038,Plácido de Castro,2007,1315
+120039,Porto Walter,2018,78
+120039,Porto Walter,2017,288
+120039,Porto Walter,2016,315
+120039,Porto Walter,2015,522
+120039,Porto Walter,2014,347
+120039,Porto Walter,2013,289
+120039,Porto Walter,2012,371
+120039,Porto Walter,2011,72
+120039,Porto Walter,2010,379
+120039,Porto Walter,2009,359
+120039,Porto Walter,2008,153
+120039,Porto Walter,2007,563
+120040,Rio Branco,2018,89
+120040,Rio Branco,2017,129
+120040,Rio Branco,2016,130
+120040,Rio Branco,2015,105
+120040,Rio Branco,2014,79
+120040,Rio Branco,2013,98
+120040,Rio Branco,2012,162
+120040,Rio Branco,2011,137
+120040,Rio Branco,2010,214
+120040,Rio Branco,2009,156
+120040,Rio Branco,2008,229
+120040,Rio Branco,2007,536
+120042,Rodrigues Alves,2018,4181
+120042,Rodrigues Alves,2017,4720
+120042,Rodrigues Alves,2016,5995
+120042,Rodrigues Alves,2015,5383
+120042,Rodrigues Alves,2014,5206
+120042,Rodrigues Alves,2013,3636
+120042,Rodrigues Alves,2012,3701
+120042,Rodrigues Alves,2011,3583
+120042,Rodrigues Alves,2010,4441
+120042,Rodrigues Alves,2009,2310
+120042,Rodrigues Alves,2008,3103
+120042,Rodrigues Alves,2007,7894
+120043,Santa Rosa do Purus,2016,1
+120043,Santa Rosa do Purus,2015,1
+120043,Santa Rosa do Purus,2014,3
+120043,Santa Rosa do Purus,2012,2
+120043,Santa Rosa do Purus,2010,1
+120043,Santa Rosa do Purus,2008,1
+120043,Santa Rosa do Purus,2007,1
+120045,Senador Guiomard,2018,236
+120045,Senador Guiomard,2017,161
+120045,Senador Guiomard,2016,205
+120045,Senador Guiomard,2015,153
+120045,Senador Guiomard,2014,70
+120045,Senador Guiomard,2013,82
+120045,Senador Guiomard,2012,99
+120045,Senador Guiomard,2011,31
+120045,Senador Guiomard,2010,148
+120045,Senador Guiomard,2009,98
+120045,Senador Guiomard,2008,446
+120045,Senador Guiomard,2007,1073
+120050,Sena Madureira,2017,3
+120050,Sena Madureira,2016,2
+120050,Sena Madureira,2015,5
+120050,Sena Madureira,2014,5
+120050,Sena Madureira,2013,5
+120050,Sena Madureira,2012,3
+120050,Sena Madureira,2011,3
+120050,Sena Madureira,2010,6
+120050,Sena Madureira,2009,3
+120050,Sena Madureira,2008,19
+120050,Sena Madureira,2007,14
+120060,Tarauacá,2018,152
+120060,Tarauacá,2017,175
+120060,Tarauacá,2016,819
+120060,Tarauacá,2015,952
+120060,Tarauacá,2014,1457
+120060,Tarauacá,2013,1974
+120060,Tarauacá,2012,973
+120060,Tarauacá,2011,532
+120060,Tarauacá,2010,2662
+120060,Tarauacá,2009,2454
+120060,Tarauacá,2008,2403
+120060,Tarauacá,2007,1934
+120070,Xapuri,2018,9
+120070,Xapuri,2017,6
+120070,Xapuri,2015,6
+120070,Xapuri,2014,1
+120070,Xapuri,2013,3
+120070,Xapuri,2012,9
+120070,Xapuri,2010,7
+120070,Xapuri,2009,3
+120070,Xapuri,2008,35
+120070,Xapuri,2007,156
+120080,Porto Acre,2018,35
+120080,Porto Acre,2017,21
+120080,Porto Acre,2016,17
+120080,Porto Acre,2015,38
+120080,Porto Acre,2014,30
+120080,Porto Acre,2013,55
+120080,Porto Acre,2012,151
+120080,Porto Acre,2011,106
+120080,Porto Acre,2010,70
+120080,Porto Acre,2009,86
+120080,Porto Acre,2008,126
+120080,Porto Acre,2007,326
+130002,Alvarães,2018,1293
+130002,Alvarães,2017,1535
+130002,Alvarães,2016,522
+130002,Alvarães,2015,1935
+130002,Alvarães,2014,1589
+130002,Alvarães,2013,2941
+130002,Alvarães,2012,1980
+130002,Alvarães,2011,738
+130002,Alvarães,2010,1049
+130002,Alvarães,2009,3140
+130002,Alvarães,2008,3661
+130002,Alvarães,2007,3573
+130006,Amaturá,2018,6
+130006,Amaturá,2017,5
+130006,Amaturá,2015,17
+130006,Amaturá,2014,97
+130006,Amaturá,2013,195
+130006,Amaturá,2012,81
+130006,Amaturá,2011,15
+130006,Amaturá,2010,25
+130006,Amaturá,2009,195
+130006,Amaturá,2008,14
+130006,Amaturá,2007,151
+130008,Anamã,2018,7
+130008,Anamã,2017,1
+130008,Anamã,2016,7
+130008,Anamã,2015,3
+130008,Anamã,2014,8
+130008,Anamã,2013,5
+130008,Anamã,2012,2
+130008,Anamã,2011,19
+130008,Anamã,2010,8
+130008,Anamã,2009,16
+130008,Anamã,2008,47
+130008,Anamã,2007,349
+130010,Anori,2018,2
+130010,Anori,2016,2
+130010,Anori,2015,3
+130010,Anori,2014,2
+130010,Anori,2013,3
+130010,Anori,2012,10
+130010,Anori,2011,3
+130010,Anori,2010,9
+130010,Anori,2009,9
+130010,Anori,2008,9
+130010,Anori,2007,309
+130014,Apuí,2018,63
+130014,Apuí,2017,185
+130014,Apuí,2016,37
+130014,Apuí,2015,39
+130014,Apuí,2014,65
+130014,Apuí,2013,189
+130014,Apuí,2012,190
+130014,Apuí,2011,190
+130014,Apuí,2010,232
+130014,Apuí,2009,283
+130014,Apuí,2008,641
+130014,Apuí,2007,1351
+130020,Atalaia do Norte,2018,2163
+130020,Atalaia do Norte,2017,1827
+130020,Atalaia do Norte,2016,2294
+130020,Atalaia do Norte,2015,3135
+130020,Atalaia do Norte,2014,3073
+130020,Atalaia do Norte,2013,3931
+130020,Atalaia do Norte,2012,5723
+130020,Atalaia do Norte,2011,2754
+130020,Atalaia do Norte,2010,3474
+130020,Atalaia do Norte,2009,4597
+130020,Atalaia do Norte,2008,5055
+130020,Atalaia do Norte,2007,4077
+130030,Autazes,2018,289
+130030,Autazes,2017,621
+130030,Autazes,2016,63
+130030,Autazes,2015,99
+130030,Autazes,2014,398
+130030,Autazes,2013,226
+130030,Autazes,2012,627
+130030,Autazes,2011,452
+130030,Autazes,2010,593
+130030,Autazes,2009,1536
+130030,Autazes,2008,2893
+130030,Autazes,2007,6164
+130040,Barcelos,2018,6419
+130040,Barcelos,2017,8379
+130040,Barcelos,2016,3952
+130040,Barcelos,2015,4361
+130040,Barcelos,2014,3931
+130040,Barcelos,2013,2456
+130040,Barcelos,2012,2432
+130040,Barcelos,2011,2178
+130040,Barcelos,2010,3289
+130040,Barcelos,2009,3205
+130040,Barcelos,2008,4154
+130040,Barcelos,2007,7330
+130050,Barreirinha,2018,1
+130050,Barreirinha,2017,5
+130050,Barreirinha,2016,1
+130050,Barreirinha,2015,1
+130050,Barreirinha,2012,1
+130050,Barreirinha,2010,3
+130050,Barreirinha,2008,3
+130050,Barreirinha,2007,7
+130060,Benjamin Constant,2018,54
+130060,Benjamin Constant,2017,120
+130060,Benjamin Constant,2016,298
+130060,Benjamin Constant,2015,1207
+130060,Benjamin Constant,2014,475
+130060,Benjamin Constant,2013,1743
+130060,Benjamin Constant,2012,1797
+130060,Benjamin Constant,2011,264
+130060,Benjamin Constant,2010,431
+130060,Benjamin Constant,2009,602
+130060,Benjamin Constant,2008,275
+130060,Benjamin Constant,2007,232
+130063,Beruri,2018,363
+130063,Beruri,2017,77
+130063,Beruri,2016,9
+130063,Beruri,2015,5
+130063,Beruri,2014,54
+130063,Beruri,2013,120
+130063,Beruri,2012,160
+130063,Beruri,2011,226
+130063,Beruri,2010,167
+130063,Beruri,2009,385
+130063,Beruri,2008,628
+130063,Beruri,2007,1366
+130068,Boa Vista do Ramos,2017,1
+130068,Boa Vista do Ramos,2016,3
+130068,Boa Vista do Ramos,2015,3
+130068,Boa Vista do Ramos,2013,1
+130068,Boa Vista do Ramos,2012,2
+130068,Boa Vista do Ramos,2010,3
+130068,Boa Vista do Ramos,2009,11
+130068,Boa Vista do Ramos,2008,16
+130068,Boa Vista do Ramos,2007,30
+130070,Boca do Acre,2018,259
+130070,Boca do Acre,2017,128
+130070,Boca do Acre,2016,124
+130070,Boca do Acre,2015,278
+130070,Boca do Acre,2014,245
+130070,Boca do Acre,2013,228
+130070,Boca do Acre,2012,285
+130070,Boca do Acre,2011,224
+130070,Boca do Acre,2010,313
+130070,Boca do Acre,2009,673
+130070,Boca do Acre,2008,515
+130070,Boca do Acre,2007,1291
+130080,Borba,2018,474
+130080,Borba,2017,152
+130080,Borba,2016,59
+130080,Borba,2015,47
+130080,Borba,2014,72
+130080,Borba,2013,160
+130080,Borba,2012,775
+130080,Borba,2011,2608
+130080,Borba,2010,1812
+130080,Borba,2009,3380
+130080,Borba,2008,5159
+130080,Borba,2007,6287
+130083,Caapiranga,2018,176
+130083,Caapiranga,2017,174
+130083,Caapiranga,2016,4
+130083,Caapiranga,2015,6
+130083,Caapiranga,2014,28
+130083,Caapiranga,2013,138
+130083,Caapiranga,2012,328
+130083,Caapiranga,2011,127
+130083,Caapiranga,2010,64
+130083,Caapiranga,2009,110
+130083,Caapiranga,2008,926
+130083,Caapiranga,2007,3825
+130090,Canutama,2018,1427
+130090,Canutama,2017,998
+130090,Canutama,2016,575
+130090,Canutama,2015,490
+130090,Canutama,2014,657
+130090,Canutama,2013,594
+130090,Canutama,2012,893
+130090,Canutama,2011,1069
+130090,Canutama,2010,808
+130090,Canutama,2009,848
+130090,Canutama,2008,1622
+130090,Canutama,2007,3411
+130100,Carauari,2018,1816
+130100,Carauari,2017,2069
+130100,Carauari,2016,536
+130100,Carauari,2015,1316
+130100,Carauari,2014,805
+130100,Carauari,2013,1035
+130100,Carauari,2012,2323
+130100,Carauari,2011,443
+130100,Carauari,2010,582
+130100,Carauari,2009,1201
+130100,Carauari,2008,656
+130100,Carauari,2007,716
+130110,Careiro,2018,252
+130110,Careiro,2017,756
+130110,Careiro,2016,287
+130110,Careiro,2015,410
+130110,Careiro,2014,709
+130110,Careiro,2013,445
+130110,Careiro,2012,431
+130110,Careiro,2011,915
+130110,Careiro,2010,1134
+130110,Careiro,2009,1908
+130110,Careiro,2008,5239
+130110,Careiro,2007,10513
+130115,Careiro da Várzea,2018,213
+130115,Careiro da Várzea,2017,945
+130115,Careiro da Várzea,2016,154
+130115,Careiro da Várzea,2015,305
+130115,Careiro da Várzea,2014,282
+130115,Careiro da Várzea,2013,175
+130115,Careiro da Várzea,2012,200
+130115,Careiro da Várzea,2011,95
+130115,Careiro da Várzea,2010,124
+130115,Careiro da Várzea,2009,282
+130115,Careiro da Várzea,2008,565
+130115,Careiro da Várzea,2007,1072
+130120,Coari,2018,3134
+130120,Coari,2017,4586
+130120,Coari,2016,1511
+130120,Coari,2015,2192
+130120,Coari,2014,2263
+130120,Coari,2013,2592
+130120,Coari,2012,3027
+130120,Coari,2011,2454
+130120,Coari,2010,3357
+130120,Coari,2009,6393
+130120,Coari,2008,10082
+130120,Coari,2007,11595
+130130,Codajás,2018,11
+130130,Codajás,2017,6
+130130,Codajás,2016,2
+130130,Codajás,2015,2
+130130,Codajás,2014,3
+130130,Codajás,2013,5
+130130,Codajás,2012,260
+130130,Codajás,2011,55
+130130,Codajás,2010,30
+130130,Codajás,2009,109
+130130,Codajás,2008,248
+130130,Codajás,2007,702
+130140,Eirunepé,2018,142
+130140,Eirunepé,2017,165
+130140,Eirunepé,2016,567
+130140,Eirunepé,2015,6263
+130140,Eirunepé,2014,5314
+130140,Eirunepé,2013,8533
+130140,Eirunepé,2012,9269
+130140,Eirunepé,2011,3751
+130140,Eirunepé,2010,3777
+130140,Eirunepé,2009,2095
+130140,Eirunepé,2008,2939
+130140,Eirunepé,2007,793
+130150,Envira,2018,79
+130150,Envira,2017,17
+130150,Envira,2016,66
+130150,Envira,2015,433
+130150,Envira,2014,355
+130150,Envira,2013,422
+130150,Envira,2012,263
+130150,Envira,2011,83
+130150,Envira,2010,58
+130150,Envira,2009,22
+130150,Envira,2008,24
+130150,Envira,2007,19
+130160,Fonte Boa,2018,28
+130160,Fonte Boa,2017,52
+130160,Fonte Boa,2016,175
+130160,Fonte Boa,2015,43
+130160,Fonte Boa,2014,66
+130160,Fonte Boa,2013,133
+130160,Fonte Boa,2012,369
+130160,Fonte Boa,2011,115
+130160,Fonte Boa,2010,123
+130160,Fonte Boa,2009,232
+130160,Fonte Boa,2008,135
+130160,Fonte Boa,2007,171
+130165,Guajará,2018,2043
+130165,Guajará,2017,3590
+130165,Guajará,2016,2064
+130165,Guajará,2015,1860
+130165,Guajará,2014,1982
+130165,Guajará,2013,2656
+130165,Guajará,2012,1903
+130165,Guajará,2011,978
+130165,Guajará,2010,1296
+130165,Guajará,2009,2239
+130165,Guajará,2008,3617
+130165,Guajará,2007,3722
+130170,Humaitá,2018,1025
+130170,Humaitá,2017,1330
+130170,Humaitá,2016,1174
+130170,Humaitá,2015,611
+130170,Humaitá,2014,1586
+130170,Humaitá,2013,952
+130170,Humaitá,2012,665
+130170,Humaitá,2011,1818
+130170,Humaitá,2010,1162
+130170,Humaitá,2009,1237
+130170,Humaitá,2008,4481
+130170,Humaitá,2007,3995
+130180,Ipixuna,2018,1015
+130180,Ipixuna,2017,1728
+130180,Ipixuna,2016,1277
+130180,Ipixuna,2015,6749
+130180,Ipixuna,2014,2971
+130180,Ipixuna,2013,5576
+130180,Ipixuna,2012,4067
+130180,Ipixuna,2011,615
+130180,Ipixuna,2010,637
+130180,Ipixuna,2009,5119
+130180,Ipixuna,2008,3546
+130180,Ipixuna,2007,1143
+130185,Iranduba,2018,1353
+130185,Iranduba,2017,1208
+130185,Iranduba,2016,350
+130185,Iranduba,2015,813
+130185,Iranduba,2014,2077
+130185,Iranduba,2013,1948
+130185,Iranduba,2012,2449
+130185,Iranduba,2011,725
+130185,Iranduba,2010,1018
+130185,Iranduba,2009,1082
+130185,Iranduba,2008,2703
+130185,Iranduba,2007,3663
+130190,Itacoatiara,2018,710
+130190,Itacoatiara,2017,2534
+130190,Itacoatiara,2016,257
+130190,Itacoatiara,2015,55
+130190,Itacoatiara,2014,146
+130190,Itacoatiara,2013,194
+130190,Itacoatiara,2012,280
+130190,Itacoatiara,2011,341
+130190,Itacoatiara,2010,1309
+130190,Itacoatiara,2009,2604
+130190,Itacoatiara,2008,3841
+130190,Itacoatiara,2007,5784
+130195,Itamarati,2018,527
+130195,Itamarati,2017,1128
+130195,Itamarati,2016,582
+130195,Itamarati,2015,1558
+130195,Itamarati,2014,1367
+130195,Itamarati,2013,1805
+130195,Itamarati,2012,838
+130195,Itamarati,2011,203
+130195,Itamarati,2010,103
+130195,Itamarati,2009,120
+130195,Itamarati,2008,37
+130195,Itamarati,2007,251
+130200,Itapiranga,2018,230
+130200,Itapiranga,2017,51
+130200,Itapiranga,2016,3
+130200,Itapiranga,2015,14
+130200,Itapiranga,2014,15
+130200,Itapiranga,2013,14
+130200,Itapiranga,2012,8
+130200,Itapiranga,2011,12
+130200,Itapiranga,2010,32
+130200,Itapiranga,2009,118
+130200,Itapiranga,2008,264
+130200,Itapiranga,2007,573
+130210,Japurá,2018,400
+130210,Japurá,2017,785
+130210,Japurá,2016,757
+130210,Japurá,2015,267
+130210,Japurá,2014,140
+130210,Japurá,2013,330
+130210,Japurá,2012,523
+130210,Japurá,2011,46
+130210,Japurá,2010,168
+130210,Japurá,2009,1177
+130210,Japurá,2008,640
+130210,Japurá,2007,611
+130220,Juruá,2018,285
+130220,Juruá,2017,109
+130220,Juruá,2016,38
+130220,Juruá,2015,501
+130220,Juruá,2014,171
+130220,Juruá,2013,701
+130220,Juruá,2012,1089
+130220,Juruá,2011,252
+130220,Juruá,2010,329
+130220,Juruá,2009,801
+130220,Juruá,2008,674
+130220,Juruá,2007,1143
+130230,Jutaí,2018,1531
+130230,Jutaí,2017,1028
+130230,Jutaí,2016,583
+130230,Jutaí,2015,1430
+130230,Jutaí,2014,1472
+130230,Jutaí,2013,1210
+130230,Jutaí,2012,865
+130230,Jutaí,2011,774
+130230,Jutaí,2010,1230
+130230,Jutaí,2009,608
+130230,Jutaí,2008,1488
+130230,Jutaí,2007,3706
+130240,Lábrea,2018,2870
+130240,Lábrea,2017,2502
+130240,Lábrea,2016,1697
+130240,Lábrea,2015,5289
+130240,Lábrea,2014,7384
+130240,Lábrea,2013,4663
+130240,Lábrea,2012,4067
+130240,Lábrea,2011,2091
+130240,Lábrea,2010,1987
+130240,Lábrea,2009,2840
+130240,Lábrea,2008,2825
+130240,Lábrea,2007,4648
+130250,Manacapuru,2018,1069
+130250,Manacapuru,2017,780
+130250,Manacapuru,2016,184
+130250,Manacapuru,2015,352
+130250,Manacapuru,2014,124
+130250,Manacapuru,2013,188
+130250,Manacapuru,2012,390
+130250,Manacapuru,2011,211
+130250,Manacapuru,2010,1067
+130250,Manacapuru,2009,1483
+130250,Manacapuru,2008,4105
+130250,Manacapuru,2007,7279
+130255,Manaquiri,2018,56
+130255,Manaquiri,2017,18
+130255,Manaquiri,2016,5
+130255,Manaquiri,2015,10
+130255,Manaquiri,2014,38
+130255,Manaquiri,2013,197
+130255,Manaquiri,2012,141
+130255,Manaquiri,2011,98
+130255,Manaquiri,2010,120
+130255,Manaquiri,2009,111
+130255,Manaquiri,2008,305
+130255,Manaquiri,2007,789
+130260,Manaus,2018,8371
+130260,Manaus,2017,10556
+130260,Manaus,2016,8495
+130260,Manaus,2015,8527
+130260,Manaus,2014,5541
+130260,Manaus,2013,5340
+130260,Manaus,2012,9769
+130260,Manaus,2011,14685
+130260,Manaus,2010,15723
+130260,Manaus,2009,16469
+130260,Manaus,2008,19780
+130260,Manaus,2007,40513
+130270,Manicoré,2018,900
+130270,Manicoré,2017,574
+130270,Manicoré,2016,393
+130270,Manicoré,2015,296
+130270,Manicoré,2014,573
+130270,Manicoré,2013,337
+130270,Manicoré,2012,531
+130270,Manicoré,2011,1534
+130270,Manicoré,2010,2095
+130270,Manicoré,2009,2075
+130270,Manicoré,2008,5190
+130270,Manicoré,2007,8468
+130280,Maraã,2018,534
+130280,Maraã,2017,919
+130280,Maraã,2016,472
+130280,Maraã,2015,1129
+130280,Maraã,2014,441
+130280,Maraã,2013,821
+130280,Maraã,2012,403
+130280,Maraã,2011,48
+130280,Maraã,2010,101
+130280,Maraã,2009,483
+130280,Maraã,2008,1287
+130280,Maraã,2007,941
+130290,Maués,2018,868
+130290,Maués,2017,1052
+130290,Maués,2016,401
+130290,Maués,2015,676
+130290,Maués,2014,1460
+130290,Maués,2013,209
+130290,Maués,2012,510
+130290,Maués,2011,327
+130290,Maués,2010,762
+130290,Maués,2009,466
+130290,Maués,2008,478
+130290,Maués,2007,535
+130300,Nhamundá,2018,171
+130300,Nhamundá,2017,7
+130300,Nhamundá,2015,1
+130300,Nhamundá,2012,1
+130300,Nhamundá,2011,19
+130300,Nhamundá,2010,84
+130300,Nhamundá,2009,602
+130300,Nhamundá,2008,777
+130300,Nhamundá,2007,413
+130310,Nova Olinda do Norte,2018,5
+130310,Nova Olinda do Norte,2017,7
+130310,Nova Olinda do Norte,2016,5
+130310,Nova Olinda do Norte,2015,5
+130310,Nova Olinda do Norte,2014,36
+130310,Nova Olinda do Norte,2013,1
+130310,Nova Olinda do Norte,2012,14
+130310,Nova Olinda do Norte,2011,29
+130310,Nova Olinda do Norte,2010,44
+130310,Nova Olinda do Norte,2009,806
+130310,Nova Olinda do Norte,2008,138
+130310,Nova Olinda do Norte,2007,116
+130320,Novo Airão,2018,519
+130320,Novo Airão,2017,596
+130320,Novo Airão,2016,34
+130320,Novo Airão,2015,81
+130320,Novo Airão,2014,60
+130320,Novo Airão,2013,138
+130320,Novo Airão,2012,407
+130320,Novo Airão,2011,283
+130320,Novo Airão,2010,236
+130320,Novo Airão,2009,485
+130320,Novo Airão,2008,729
+130320,Novo Airão,2007,1937
+130330,Novo Aripuanã,2018,396
+130330,Novo Aripuanã,2017,131
+130330,Novo Aripuanã,2016,46
+130330,Novo Aripuanã,2015,50
+130330,Novo Aripuanã,2014,54
+130330,Novo Aripuanã,2013,83
+130330,Novo Aripuanã,2012,143
+130330,Novo Aripuanã,2011,789
+130330,Novo Aripuanã,2010,888
+130330,Novo Aripuanã,2009,1575
+130330,Novo Aripuanã,2008,2172
+130330,Novo Aripuanã,2007,4309
+130340,Parintins,2018,4
+130340,Parintins,2017,5
+130340,Parintins,2016,2
+130340,Parintins,2015,7
+130340,Parintins,2014,10
+130340,Parintins,2013,6
+130340,Parintins,2012,17
+130340,Parintins,2011,24
+130340,Parintins,2010,25
+130340,Parintins,2009,36
+130340,Parintins,2008,60
+130340,Parintins,2007,61
+130350,Pauini,2018,322
+130350,Pauini,2017,367
+130350,Pauini,2016,276
+130350,Pauini,2015,1138
+130350,Pauini,2014,1947
+130350,Pauini,2013,1309
+130350,Pauini,2012,837
+130350,Pauini,2011,211
+130350,Pauini,2010,461
+130350,Pauini,2009,1455
+130350,Pauini,2008,292
+130350,Pauini,2007,578
+130353,Presidente Figueiredo,2018,1583
+130353,Presidente Figueiredo,2017,2452
+130353,Presidente Figueiredo,2016,1668
+130353,Presidente Figueiredo,2015,431
+130353,Presidente Figueiredo,2014,566
+130353,Presidente Figueiredo,2013,614
+130353,Presidente Figueiredo,2012,651
+130353,Presidente Figueiredo,2011,698
+130353,Presidente Figueiredo,2010,920
+130353,Presidente Figueiredo,2009,1439
+130353,Presidente Figueiredo,2008,3754
+130353,Presidente Figueiredo,2007,5113
+130356,Rio Preto da Eva,2018,1318
+130356,Rio Preto da Eva,2017,1518
+130356,Rio Preto da Eva,2016,648
+130356,Rio Preto da Eva,2015,199
+130356,Rio Preto da Eva,2014,167
+130356,Rio Preto da Eva,2013,848
+130356,Rio Preto da Eva,2012,1073
+130356,Rio Preto da Eva,2011,1395
+130356,Rio Preto da Eva,2010,1547
+130356,Rio Preto da Eva,2009,1606
+130356,Rio Preto da Eva,2008,1733
+130356,Rio Preto da Eva,2007,5012
+130360,Santa Isabel do Rio Negro,2018,3242
+130360,Santa Isabel do Rio Negro,2017,7602
+130360,Santa Isabel do Rio Negro,2016,3254
+130360,Santa Isabel do Rio Negro,2015,1526
+130360,Santa Isabel do Rio Negro,2014,365
+130360,Santa Isabel do Rio Negro,2013,207
+130360,Santa Isabel do Rio Negro,2012,339
+130360,Santa Isabel do Rio Negro,2011,1118
+130360,Santa Isabel do Rio Negro,2010,783
+130360,Santa Isabel do Rio Negro,2009,579
+130360,Santa Isabel do Rio Negro,2008,3864
+130360,Santa Isabel do Rio Negro,2007,4823
+130370,Santo Antônio do Içá,2018,1063
+130370,Santo Antônio do Içá,2017,406
+130370,Santo Antônio do Içá,2016,481
+130370,Santo Antônio do Içá,2015,2386
+130370,Santo Antônio do Içá,2014,2345
+130370,Santo Antônio do Içá,2013,1279
+130370,Santo Antônio do Içá,2012,1580
+130370,Santo Antônio do Içá,2011,286
+130370,Santo Antônio do Içá,2010,412
+130370,Santo Antônio do Içá,2009,1692
+130370,Santo Antônio do Içá,2008,2169
+130370,Santo Antônio do Içá,2007,1358
+130380,São Gabriel da Cachoeira,2018,15516
+130380,São Gabriel da Cachoeira,2017,12346
+130380,São Gabriel da Cachoeira,2016,10579
+130380,São Gabriel da Cachoeira,2015,5203
+130380,São Gabriel da Cachoeira,2014,4615
+130380,São Gabriel da Cachoeira,2013,5599
+130380,São Gabriel da Cachoeira,2012,4049
+130380,São Gabriel da Cachoeira,2011,5191
+130380,São Gabriel da Cachoeira,2010,9452
+130380,São Gabriel da Cachoeira,2009,3718
+130380,São Gabriel da Cachoeira,2008,4981
+130380,São Gabriel da Cachoeira,2007,6485
+130390,São Paulo de Olivença,2018,80
+130390,São Paulo de Olivença,2017,194
+130390,São Paulo de Olivença,2016,438
+130390,São Paulo de Olivença,2015,2843
+130390,São Paulo de Olivença,2014,1530
+130390,São Paulo de Olivença,2013,4110
+130390,São Paulo de Olivença,2012,4199
+130390,São Paulo de Olivença,2011,689
+130390,São Paulo de Olivença,2010,898
+130390,São Paulo de Olivença,2009,2641
+130390,São Paulo de Olivença,2008,1617
+130390,São Paulo de Olivença,2007,1031
+130395,São Sebastião do Uatumã,2018,429
+130395,São Sebastião do Uatumã,2017,342
+130395,São Sebastião do Uatumã,2016,7
+130395,São Sebastião do Uatumã,2015,117
+130395,São Sebastião do Uatumã,2014,8
+130395,São Sebastião do Uatumã,2013,49
+130395,São Sebastião do Uatumã,2012,8
+130395,São Sebastião do Uatumã,2011,158
+130395,São Sebastião do Uatumã,2010,220
+130395,São Sebastião do Uatumã,2009,320
+130395,São Sebastião do Uatumã,2008,664
+130395,São Sebastião do Uatumã,2007,1539
+130400,Silves,2018,83
+130400,Silves,2017,12
+130400,Silves,2016,1
+130400,Silves,2015,2
+130400,Silves,2014,19
+130400,Silves,2013,6
+130400,Silves,2012,7
+130400,Silves,2011,17
+130400,Silves,2010,82
+130400,Silves,2009,150
+130400,Silves,2008,677
+130400,Silves,2007,780
+130406,Tabatinga,2018,146
+130406,Tabatinga,2017,272
+130406,Tabatinga,2016,620
+130406,Tabatinga,2015,1809
+130406,Tabatinga,2014,1532
+130406,Tabatinga,2013,3524
+130406,Tabatinga,2012,4438
+130406,Tabatinga,2011,1364
+130406,Tabatinga,2010,2150
+130406,Tabatinga,2009,4803
+130406,Tabatinga,2008,801
+130406,Tabatinga,2007,1654
+130410,Tapauá,2018,1889
+130410,Tapauá,2017,1554
+130410,Tapauá,2016,494
+130410,Tapauá,2015,1418
+130410,Tapauá,2014,2048
+130410,Tapauá,2013,1059
+130410,Tapauá,2012,1462
+130410,Tapauá,2011,1199
+130410,Tapauá,2010,1763
+130410,Tapauá,2009,3147
+130410,Tapauá,2008,4345
+130410,Tapauá,2007,3865
+130420,Tefé,2018,3925
+130420,Tefé,2017,1987
+130420,Tefé,2016,990
+130420,Tefé,2015,2364
+130420,Tefé,2014,2366
+130420,Tefé,2013,2368
+130420,Tefé,2012,2956
+130420,Tefé,2011,2124
+130420,Tefé,2010,2007
+130420,Tefé,2009,4847
+130420,Tefé,2008,8089
+130420,Tefé,2007,7483
+130423,Tonantins,2018,5
+130423,Tonantins,2017,7
+130423,Tonantins,2016,22
+130423,Tonantins,2015,77
+130423,Tonantins,2014,12
+130423,Tonantins,2013,17
+130423,Tonantins,2012,21
+130423,Tonantins,2011,5
+130423,Tonantins,2010,159
+130423,Tonantins,2009,169
+130423,Tonantins,2008,54
+130423,Tonantins,2007,153
+130426,Uarini,2018,258
+130426,Uarini,2017,178
+130426,Uarini,2016,416
+130426,Uarini,2015,1843
+130426,Uarini,2014,1332
+130426,Uarini,2013,1491
+130426,Uarini,2012,918
+130426,Uarini,2011,708
+130426,Uarini,2010,1242
+130426,Uarini,2009,1669
+130426,Uarini,2008,1443
+130426,Uarini,2007,2558
+130430,Urucará,2018,92
+130430,Urucará,2017,146
+130430,Urucará,2016,19
+130430,Urucará,2015,197
+130430,Urucará,2014,7
+130430,Urucará,2013,13
+130430,Urucará,2012,5
+130430,Urucará,2011,24
+130430,Urucará,2010,64
+130430,Urucará,2009,144
+130430,Urucará,2008,235
+130430,Urucará,2007,786
+130440,Urucurituba,2017,1
+130440,Urucurituba,2015,1
+130440,Urucurituba,2014,1
+130440,Urucurituba,2013,2
+130440,Urucurituba,2010,3
+130440,Urucurituba,2009,1
+130440,Urucurituba,2008,3
+130440,Urucurituba,2007,12
+140002,Amajari,2018,1445
+140002,Amajari,2017,543
+140002,Amajari,2016,1069
+140002,Amajari,2015,785
+140002,Amajari,2014,1324
+140002,Amajari,2013,1233
+140002,Amajari,2012,497
+140002,Amajari,2011,1421
+140002,Amajari,2010,1867
+140002,Amajari,2009,1239
+140002,Amajari,2008,565
+140002,Amajari,2007,308
+140005,Alto Alegre,2018,2047
+140005,Alto Alegre,2017,813
+140005,Alto Alegre,2016,1246
+140005,Alto Alegre,2015,1352
+140005,Alto Alegre,2014,613
+140005,Alto Alegre,2013,106
+140005,Alto Alegre,2012,202
+140005,Alto Alegre,2011,1282
+140005,Alto Alegre,2010,1840
+140005,Alto Alegre,2009,1154
+140005,Alto Alegre,2008,234
+140005,Alto Alegre,2007,659
+140010,Boa Vista,2018,301
+140010,Boa Vista,2017,199
+140010,Boa Vista,2016,50
+140010,Boa Vista,2015,61
+140010,Boa Vista,2014,117
+140010,Boa Vista,2013,218
+140010,Boa Vista,2012,169
+140010,Boa Vista,2011,335
+140010,Boa Vista,2010,498
+140010,Boa Vista,2009,356
+140010,Boa Vista,2008,400
+140010,Boa Vista,2007,511
+140015,Bonfim,2018,144
+140015,Bonfim,2017,65
+140015,Bonfim,2016,39
+140015,Bonfim,2015,58
+140015,Bonfim,2014,56
+140015,Bonfim,2013,108
+140015,Bonfim,2012,431
+140015,Bonfim,2011,830
+140015,Bonfim,2010,976
+140015,Bonfim,2009,697
+140015,Bonfim,2008,649
+140015,Bonfim,2007,647
+140017,Cantá,2018,3187
+140017,Cantá,2017,2448
+140017,Cantá,2016,214
+140017,Cantá,2015,191
+140017,Cantá,2014,504
+140017,Cantá,2013,521
+140017,Cantá,2012,1418
+140017,Cantá,2011,3137
+140017,Cantá,2010,6256
+140017,Cantá,2009,4112
+140017,Cantá,2008,2621
+140017,Cantá,2007,2886
+140020,Caracaraí,2018,2603
+140020,Caracaraí,2017,1853
+140020,Caracaraí,2016,398
+140020,Caracaraí,2015,610
+140020,Caracaraí,2014,761
+140020,Caracaraí,2013,472
+140020,Caracaraí,2012,554
+140020,Caracaraí,2011,1782
+140020,Caracaraí,2010,2056
+140020,Caracaraí,2009,1793
+140020,Caracaraí,2008,1325
+140020,Caracaraí,2007,2504
+140023,Caroebe,2018,271
+140023,Caroebe,2017,120
+140023,Caroebe,2016,261
+140023,Caroebe,2015,140
+140023,Caroebe,2014,66
+140023,Caroebe,2013,154
+140023,Caroebe,2012,109
+140023,Caroebe,2011,32
+140023,Caroebe,2010,229
+140023,Caroebe,2009,164
+140023,Caroebe,2008,176
+140023,Caroebe,2007,451
+140028,Iracema,2018,886
+140028,Iracema,2017,872
+140028,Iracema,2016,204
+140028,Iracema,2015,421
+140028,Iracema,2014,109
+140028,Iracema,2013,145
+140028,Iracema,2012,197
+140028,Iracema,2011,340
+140028,Iracema,2010,712
+140028,Iracema,2009,657
+140028,Iracema,2008,663
+140028,Iracema,2007,1062
+140030,Mucajaí,2018,967
+140030,Mucajaí,2017,813
+140030,Mucajaí,2016,650
+140030,Mucajaí,2015,384
+140030,Mucajaí,2014,237
+140030,Mucajaí,2013,245
+140030,Mucajaí,2012,494
+140030,Mucajaí,2011,770
+140030,Mucajaí,2010,960
+140030,Mucajaí,2009,905
+140030,Mucajaí,2008,765
+140030,Mucajaí,2007,1111
+140040,Normandia,2018,20
+140040,Normandia,2017,7
+140040,Normandia,2016,5
+140040,Normandia,2015,12
+140040,Normandia,2014,12
+140040,Normandia,2013,45
+140040,Normandia,2012,165
+140040,Normandia,2011,129
+140040,Normandia,2010,147
+140040,Normandia,2009,162
+140040,Normandia,2008,135
+140040,Normandia,2007,143
+140045,Pacaraima,2018,1593
+140045,Pacaraima,2017,310
+140045,Pacaraima,2016,184
+140045,Pacaraima,2015,187
+140045,Pacaraima,2014,268
+140045,Pacaraima,2013,223
+140045,Pacaraima,2012,192
+140045,Pacaraima,2011,111
+140045,Pacaraima,2010,853
+140045,Pacaraima,2009,362
+140045,Pacaraima,2008,88
+140045,Pacaraima,2007,361
+140047,Rorainópolis,2018,3620
+140047,Rorainópolis,2017,3006
+140047,Rorainópolis,2016,790
+140047,Rorainópolis,2015,1137
+140047,Rorainópolis,2014,616
+140047,Rorainópolis,2013,460
+140047,Rorainópolis,2012,601
+140047,Rorainópolis,2011,1205
+140047,Rorainópolis,2010,1723
+140047,Rorainópolis,2009,981
+140047,Rorainópolis,2008,1475
+140047,Rorainópolis,2007,2925
+140050,São João da Baliza,2018,401
+140050,São João da Baliza,2017,64
+140050,São João da Baliza,2016,482
+140050,São João da Baliza,2015,616
+140050,São João da Baliza,2014,825
+140050,São João da Baliza,2013,643
+140050,São João da Baliza,2012,626
+140050,São João da Baliza,2011,170
+140050,São João da Baliza,2010,515
+140050,São João da Baliza,2009,477
+140050,São João da Baliza,2008,157
+140050,São João da Baliza,2007,291
+140060,São Luiz,2018,222
+140060,São Luiz,2017,71
+140060,São Luiz,2016,66
+140060,São Luiz,2015,132
+140060,São Luiz,2014,161
+140060,São Luiz,2013,131
+140060,São Luiz,2012,59
+140060,São Luiz,2011,49
+140060,São Luiz,2010,130
+140060,São Luiz,2009,155
+140060,São Luiz,2008,92
+140060,São Luiz,2007,295
+140070,Uiramutã,2018,661
+140070,Uiramutã,2017,18
+140070,Uiramutã,2016,71
+140070,Uiramutã,2015,99
+140070,Uiramutã,2014,61
+140070,Uiramutã,2013,142
+140070,Uiramutã,2012,219
+140070,Uiramutã,2011,277
+140070,Uiramutã,2010,311
+140070,Uiramutã,2009,326
+140070,Uiramutã,2008,35
+140070,Uiramutã,2007,32
+150010,Abaetetuba,2018,5
+150010,Abaetetuba,2017,1
+150010,Abaetetuba,2016,1
+150010,Abaetetuba,2014,1
+150010,Abaetetuba,2013,5
+150010,Abaetetuba,2012,5
+150010,Abaetetuba,2011,9
+150010,Abaetetuba,2010,5
+150010,Abaetetuba,2009,4
+150010,Abaetetuba,2008,2
+150010,Abaetetuba,2007,4
+150013,Abel Figueiredo,2016,1
+150013,Abel Figueiredo,2012,1
+150013,Abel Figueiredo,2011,4
+150013,Abel Figueiredo,2010,2
+150013,Abel Figueiredo,2009,1
+150013,Abel Figueiredo,2008,3
+150013,Abel Figueiredo,2007,10
+150020,Acará,2017,1
+150020,Acará,2016,2
+150020,Acará,2014,2
+150020,Acará,2013,2
+150020,Acará,2012,12
+150020,Acará,2011,13
+150020,Acará,2010,18
+150020,Acará,2009,9
+150020,Acará,2008,6
+150020,Acará,2007,13
+150030,Afuá,2018,671
+150030,Afuá,2017,664
+150030,Afuá,2016,512
+150030,Afuá,2015,463
+150030,Afuá,2014,507
+150030,Afuá,2013,695
+150030,Afuá,2012,1639
+150030,Afuá,2011,856
+150030,Afuá,2010,1513
+150030,Afuá,2009,1893
+150030,Afuá,2008,501
+150030,Afuá,2007,362
+150034,Água Azul do Norte,2018,1
+150034,Água Azul do Norte,2013,2
+150034,Água Azul do Norte,2012,4
+150034,Água Azul do Norte,2011,3
+150034,Água Azul do Norte,2010,2
+150034,Água Azul do Norte,2008,1
+150034,Água Azul do Norte,2007,4
+150040,Alenquer,2018,335
+150040,Alenquer,2017,144
+150040,Alenquer,2016,99
+150040,Alenquer,2015,65
+150040,Alenquer,2014,108
+150040,Alenquer,2013,307
+150040,Alenquer,2012,652
+150040,Alenquer,2011,1496
+150040,Alenquer,2010,742
+150040,Alenquer,2009,893
+150040,Alenquer,2008,837
+150040,Alenquer,2007,1177
+150050,Almeirim,2018,651
+150050,Almeirim,2017,587
+150050,Almeirim,2016,713
+150050,Almeirim,2015,486
+150050,Almeirim,2014,311
+150050,Almeirim,2013,494
+150050,Almeirim,2012,432
+150050,Almeirim,2011,624
+150050,Almeirim,2010,626
+150050,Almeirim,2009,623
+150050,Almeirim,2008,736
+150050,Almeirim,2007,624
+150060,Altamira,2018,163
+150060,Altamira,2017,39
+150060,Altamira,2016,21
+150060,Altamira,2015,42
+150060,Altamira,2014,130
+150060,Altamira,2013,309
+150060,Altamira,2012,1850
+150060,Altamira,2011,1410
+150060,Altamira,2010,1858
+150060,Altamira,2009,1747
+150060,Altamira,2008,1694
+150060,Altamira,2007,3179
+150070,Anajás,2018,4831
+150070,Anajás,2017,5879
+150070,Anajás,2016,2112
+150070,Anajás,2015,2839
+150070,Anajás,2014,1924
+150070,Anajás,2013,3073
+150070,Anajás,2012,19324
+150070,Anajás,2011,18039
+150070,Anajás,2010,22664
+150070,Anajás,2009,26044
+150070,Anajás,2008,12002
+150070,Anajás,2007,8851
+150080,Ananindeua,2018,15
+150080,Ananindeua,2017,9
+150080,Ananindeua,2016,2
+150080,Ananindeua,2015,1
+150080,Ananindeua,2014,4
+150080,Ananindeua,2013,142
+150080,Ananindeua,2012,13
+150080,Ananindeua,2011,22
+150080,Ananindeua,2010,12
+150080,Ananindeua,2009,6
+150080,Ananindeua,2008,8
+150080,Ananindeua,2007,9
+150085,Anapu,2018,3
+150085,Anapu,2017,7
+150085,Anapu,2016,54
+150085,Anapu,2015,31
+150085,Anapu,2014,200
+150085,Anapu,2013,236
+150085,Anapu,2012,1509
+150085,Anapu,2011,3313
+150085,Anapu,2010,1671
+150085,Anapu,2009,727
+150085,Anapu,2008,708
+150085,Anapu,2007,1244
+150090,Augusto Corrêa,2018,2
+150090,Augusto Corrêa,2013,2
+150090,Augusto Corrêa,2012,3
+150090,Augusto Corrêa,2011,21
+150090,Augusto Corrêa,2010,181
+150090,Augusto Corrêa,2009,258
+150090,Augusto Corrêa,2008,313
+150090,Augusto Corrêa,2007,433
+150095,Aurora do Pará,2018,6
+150095,Aurora do Pará,2017,5
+150095,Aurora do Pará,2015,2
+150095,Aurora do Pará,2014,3
+150095,Aurora do Pará,2013,7
+150095,Aurora do Pará,2012,16
+150095,Aurora do Pará,2011,80
+150095,Aurora do Pará,2010,218
+150095,Aurora do Pará,2009,460
+150095,Aurora do Pará,2008,580
+150095,Aurora do Pará,2007,402
+150100,Aveiro,2018,1
+150100,Aveiro,2015,1
+150100,Aveiro,2014,2
+150100,Aveiro,2013,4
+150100,Aveiro,2012,8
+150100,Aveiro,2011,12
+150100,Aveiro,2010,23
+150100,Aveiro,2009,10
+150100,Aveiro,2008,5
+150100,Aveiro,2007,39
+150110,Bagre,2018,5768
+150110,Bagre,2017,7500
+150110,Bagre,2016,127
+150110,Bagre,2015,3
+150110,Bagre,2014,11
+150110,Bagre,2013,41
+150110,Bagre,2012,2367
+150110,Bagre,2011,4491
+150110,Bagre,2010,5742
+150110,Bagre,2009,63
+150110,Bagre,2008,8
+150110,Bagre,2007,37
+150120,Baião,2018,447
+150120,Baião,2017,115
+150120,Baião,2016,50
+150120,Baião,2015,18
+150120,Baião,2014,8
+150120,Baião,2013,63
+150120,Baião,2012,237
+150120,Baião,2011,538
+150120,Baião,2010,458
+150120,Baião,2009,246
+150120,Baião,2008,314
+150120,Baião,2007,556
+150125,Bannach,2017,5
+150125,Bannach,2016,39
+150125,Bannach,2015,16
+150125,Bannach,2014,1
+150125,Bannach,2012,1
+150125,Bannach,2011,38
+150125,Bannach,2008,23
+150130,Barcarena,2017,3
+150130,Barcarena,2013,8
+150130,Barcarena,2012,3
+150130,Barcarena,2011,11
+150130,Barcarena,2010,7
+150130,Barcarena,2009,5
+150130,Barcarena,2008,9
+150130,Barcarena,2007,14
+150140,Belém,2018,13
+150140,Belém,2017,14
+150140,Belém,2016,3
+150140,Belém,2015,15
+150140,Belém,2014,10
+150140,Belém,2013,59
+150140,Belém,2012,83
+150140,Belém,2011,78
+150140,Belém,2010,74
+150140,Belém,2009,107
+150140,Belém,2008,113
+150140,Belém,2007,185
+150145,Belterra,2018,1
+150145,Belterra,2014,1
+150145,Belterra,2013,4
+150145,Belterra,2012,24
+150145,Belterra,2011,8
+150145,Belterra,2010,1
+150145,Belterra,2009,32
+150145,Belterra,2008,17
+150145,Belterra,2007,34
+150150,Benevides,2013,1
+150150,Benevides,2012,2
+150150,Benevides,2011,7
+150150,Benevides,2010,7
+150150,Benevides,2008,1
+150150,Benevides,2007,3
+150157,Bom Jesus do Tocantins,2018,2
+150157,Bom Jesus do Tocantins,2016,2
+150157,Bom Jesus do Tocantins,2015,2
+150157,Bom Jesus do Tocantins,2014,4
+150157,Bom Jesus do Tocantins,2013,4
+150157,Bom Jesus do Tocantins,2012,15
+150157,Bom Jesus do Tocantins,2011,150
+150157,Bom Jesus do Tocantins,2010,148
+150157,Bom Jesus do Tocantins,2009,137
+150157,Bom Jesus do Tocantins,2008,209
+150157,Bom Jesus do Tocantins,2007,118
+150160,Bonito,2011,1
+150160,Bonito,2010,1
+150160,Bonito,2007,1
+150170,Bragança,2018,1
+150170,Bragança,2013,4
+150170,Bragança,2012,1
+150170,Bragança,2011,23
+150170,Bragança,2010,66
+150170,Bragança,2009,62
+150170,Bragança,2008,115
+150170,Bragança,2007,360
+150172,Brasil Novo,2013,6
+150172,Brasil Novo,2012,93
+150172,Brasil Novo,2011,88
+150172,Brasil Novo,2010,207
+150172,Brasil Novo,2009,170
+150172,Brasil Novo,2008,190
+150172,Brasil Novo,2007,271
+150175,Brejo Grande do Araguaia,2017,21
+150175,Brejo Grande do Araguaia,2015,5
+150175,Brejo Grande do Araguaia,2014,1
+150175,Brejo Grande do Araguaia,2013,1
+150175,Brejo Grande do Araguaia,2012,1
+150175,Brejo Grande do Araguaia,2011,2
+150175,Brejo Grande do Araguaia,2010,21
+150175,Brejo Grande do Araguaia,2008,1
+150178,Breu Branco,2018,38
+150178,Breu Branco,2017,30
+150178,Breu Branco,2016,6
+150178,Breu Branco,2014,4
+150178,Breu Branco,2013,26
+150178,Breu Branco,2012,267
+150178,Breu Branco,2011,582
+150178,Breu Branco,2010,1111
+150178,Breu Branco,2009,762
+150178,Breu Branco,2008,765
+150178,Breu Branco,2007,859
+150180,Breves,2018,1226
+150180,Breves,2017,1455
+150180,Breves,2016,1731
+150180,Breves,2015,538
+150180,Breves,2014,423
+150180,Breves,2013,912
+150180,Breves,2012,2582
+150180,Breves,2011,3248
+150180,Breves,2010,6621
+150180,Breves,2009,2622
+150180,Breves,2008,586
+150180,Breves,2007,818
+150190,Bujaru,2014,23
+150190,Bujaru,2013,1
+150190,Bujaru,2012,1
+150190,Bujaru,2011,2
+150190,Bujaru,2010,3
+150190,Bujaru,2009,6
+150190,Bujaru,2008,4
+150190,Bujaru,2007,140
+150195,Cachoeira do Piriá,2018,125
+150195,Cachoeira do Piriá,2017,4
+150195,Cachoeira do Piriá,2016,3
+150195,Cachoeira do Piriá,2013,5
+150195,Cachoeira do Piriá,2012,122
+150195,Cachoeira do Piriá,2011,668
+150195,Cachoeira do Piriá,2010,861
+150195,Cachoeira do Piriá,2009,3039
+150195,Cachoeira do Piriá,2008,1496
+150195,Cachoeira do Piriá,2007,1589
+150200,Cachoeira do Arari,2018,2
+150200,Cachoeira do Arari,2017,3
+150200,Cachoeira do Arari,2014,1
+150200,Cachoeira do Arari,2013,2
+150200,Cachoeira do Arari,2012,14
+150200,Cachoeira do Arari,2011,15
+150200,Cachoeira do Arari,2010,14
+150200,Cachoeira do Arari,2009,39
+150200,Cachoeira do Arari,2008,104
+150200,Cachoeira do Arari,2007,45
+150210,Cametá,2018,8000
+150210,Cametá,2017,943
+150210,Cametá,2016,2
+150210,Cametá,2015,1
+150210,Cametá,2014,10
+150210,Cametá,2013,189
+150210,Cametá,2012,2420
+150210,Cametá,2011,14246
+150210,Cametá,2010,2315
+150210,Cametá,2009,5
+150210,Cametá,2008,9
+150210,Cametá,2007,10
+150215,Canaã dos Carajás,2017,1
+150215,Canaã dos Carajás,2016,1
+150215,Canaã dos Carajás,2015,3
+150215,Canaã dos Carajás,2014,3
+150215,Canaã dos Carajás,2013,2
+150215,Canaã dos Carajás,2012,7
+150215,Canaã dos Carajás,2011,2
+150215,Canaã dos Carajás,2010,3
+150215,Canaã dos Carajás,2009,4
+150215,Canaã dos Carajás,2008,3
+150215,Canaã dos Carajás,2007,5
+150220,Capanema,2011,4
+150220,Capanema,2010,4
+150220,Capanema,2009,10
+150220,Capanema,2008,6
+150220,Capanema,2007,12
+150230,Capitão Poço,2014,1
+150230,Capitão Poço,2013,3
+150230,Capitão Poço,2012,4
+150230,Capitão Poço,2011,13
+150230,Capitão Poço,2010,8
+150230,Capitão Poço,2009,27
+150230,Capitão Poço,2008,5
+150230,Capitão Poço,2007,12
+150240,Castanhal,2014,1
+150240,Castanhal,2012,3
+150240,Castanhal,2011,2
+150240,Castanhal,2010,6
+150240,Castanhal,2009,3
+150240,Castanhal,2008,7
+150240,Castanhal,2007,6
+150250,Chaves,2018,433
+150250,Chaves,2017,473
+150250,Chaves,2016,402
+150250,Chaves,2015,164
+150250,Chaves,2014,48
+150250,Chaves,2013,241
+150250,Chaves,2012,1429
+150250,Chaves,2011,663
+150250,Chaves,2010,1119
+150250,Chaves,2009,1191
+150250,Chaves,2008,839
+150250,Chaves,2007,445
+150260,Colares,2018,1
+150260,Colares,2013,8
+150260,Colares,2012,73
+150260,Colares,2011,10
+150260,Colares,2010,2
+150260,Colares,2009,2
+150260,Colares,2008,4
+150260,Colares,2007,4
+150270,Conceição do Araguaia,2011,1
+150270,Conceição do Araguaia,2010,1
+150270,Conceição do Araguaia,2009,2
+150270,Conceição do Araguaia,2008,2
+150270,Conceição do Araguaia,2007,17
+150275,Concórdia do Pará,2016,2
+150275,Concórdia do Pará,2015,2
+150275,Concórdia do Pará,2014,7
+150275,Concórdia do Pará,2013,3
+150275,Concórdia do Pará,2012,10
+150275,Concórdia do Pará,2011,4
+150275,Concórdia do Pará,2010,7
+150275,Concórdia do Pará,2009,20
+150275,Concórdia do Pará,2008,16
+150275,Concórdia do Pará,2007,181
+150276,Cumaru do Norte,2018,2
+150276,Cumaru do Norte,2017,15
+150276,Cumaru do Norte,2016,28
+150276,Cumaru do Norte,2015,53
+150276,Cumaru do Norte,2014,90
+150276,Cumaru do Norte,2013,33
+150276,Cumaru do Norte,2012,25
+150276,Cumaru do Norte,2011,135
+150276,Cumaru do Norte,2010,3
+150276,Cumaru do Norte,2009,1
+150276,Cumaru do Norte,2008,3
+150276,Cumaru do Norte,2007,4
+150277,Curionópolis,2018,1
+150277,Curionópolis,2017,1
+150277,Curionópolis,2016,1
+150277,Curionópolis,2015,1
+150277,Curionópolis,2013,1
+150277,Curionópolis,2012,7
+150277,Curionópolis,2011,10
+150277,Curionópolis,2010,20
+150277,Curionópolis,2009,9
+150277,Curionópolis,2008,66
+150277,Curionópolis,2007,84
+150280,Curralinho,2018,1906
+150280,Curralinho,2017,4297
+150280,Curralinho,2016,977
+150280,Curralinho,2015,90
+150280,Curralinho,2014,41
+150280,Curralinho,2013,182
+150280,Curralinho,2012,1914
+150280,Curralinho,2011,4580
+150280,Curralinho,2010,7872
+150280,Curralinho,2009,2009
+150280,Curralinho,2008,667
+150280,Curralinho,2007,743
+150285,Curuá,2018,2
+150285,Curuá,2015,1
+150285,Curuá,2014,1
+150285,Curuá,2012,4
+150285,Curuá,2011,28
+150285,Curuá,2010,4
+150285,Curuá,2009,8
+150285,Curuá,2008,11
+150285,Curuá,2007,14
+150290,Curuçá,2015,1
+150290,Curuçá,2014,5
+150290,Curuçá,2013,22
+150290,Curuçá,2012,63
+150290,Curuçá,2011,63
+150290,Curuçá,2010,6
+150290,Curuçá,2009,95
+150290,Curuçá,2008,89
+150290,Curuçá,2007,16
+150293,Dom Eliseu,2013,2
+150293,Dom Eliseu,2012,1
+150293,Dom Eliseu,2011,10
+150293,Dom Eliseu,2010,36
+150293,Dom Eliseu,2009,6
+150293,Dom Eliseu,2008,5
+150293,Dom Eliseu,2007,20
+150295,Eldorado do Carajás,2018,1
+150295,Eldorado do Carajás,2017,2
+150295,Eldorado do Carajás,2015,1
+150295,Eldorado do Carajás,2014,2
+150295,Eldorado do Carajás,2012,2
+150295,Eldorado do Carajás,2011,8
+150295,Eldorado do Carajás,2010,12
+150295,Eldorado do Carajás,2009,2
+150295,Eldorado do Carajás,2008,24
+150295,Eldorado do Carajás,2007,13
+150300,Faro,2018,44
+150300,Faro,2017,8
+150300,Faro,2014,2
+150300,Faro,2013,5
+150300,Faro,2011,55
+150300,Faro,2010,71
+150300,Faro,2009,277
+150300,Faro,2008,552
+150300,Faro,2007,387
+150304,Floresta do Araguaia,2011,1
+150304,Floresta do Araguaia,2010,4
+150304,Floresta do Araguaia,2007,1
+150307,Garrafão do Norte,2014,1
+150307,Garrafão do Norte,2012,2
+150307,Garrafão do Norte,2011,14
+150307,Garrafão do Norte,2010,68
+150307,Garrafão do Norte,2009,72
+150307,Garrafão do Norte,2008,9
+150307,Garrafão do Norte,2007,19
+150309,Goianésia do Pará,2018,27
+150309,Goianésia do Pará,2017,6
+150309,Goianésia do Pará,2015,2
+150309,Goianésia do Pará,2014,14
+150309,Goianésia do Pará,2013,250
+150309,Goianésia do Pará,2012,1650
+150309,Goianésia do Pará,2011,3780
+150309,Goianésia do Pará,2010,7791
+150309,Goianésia do Pará,2009,5810
+150309,Goianésia do Pará,2008,4275
+150309,Goianésia do Pará,2007,2707
+150310,Gurupá,2018,28
+150310,Gurupá,2017,18
+150310,Gurupá,2016,6
+150310,Gurupá,2015,7
+150310,Gurupá,2014,12
+150310,Gurupá,2013,8
+150310,Gurupá,2012,24
+150310,Gurupá,2011,28
+150310,Gurupá,2010,61
+150310,Gurupá,2009,26
+150310,Gurupá,2008,68
+150310,Gurupá,2007,20
+150320,Igarapé-Açu,2016,1
+150320,Igarapé-Açu,2015,1
+150320,Igarapé-Açu,2014,1
+150320,Igarapé-Açu,2013,4
+150320,Igarapé-Açu,2012,5
+150320,Igarapé-Açu,2011,5
+150320,Igarapé-Açu,2010,4
+150320,Igarapé-Açu,2009,2
+150320,Igarapé-Açu,2008,2
+150320,Igarapé-Açu,2007,6
+150330,Igarapé-Miri,2018,9
+150330,Igarapé-Miri,2017,2
+150330,Igarapé-Miri,2016,2
+150330,Igarapé-Miri,2012,5
+150330,Igarapé-Miri,2011,42
+150330,Igarapé-Miri,2010,12
+150330,Igarapé-Miri,2009,5
+150330,Igarapé-Miri,2008,1
+150330,Igarapé-Miri,2007,3
+150340,Inhangapi,2013,1
+150340,Inhangapi,2012,1
+150340,Inhangapi,2010,1
+150340,Inhangapi,2009,1
+150340,Inhangapi,2008,2
+150340,Inhangapi,2007,4
+150345,Ipixuna do Pará,2018,4
+150345,Ipixuna do Pará,2016,2
+150345,Ipixuna do Pará,2014,1
+150345,Ipixuna do Pará,2013,17
+150345,Ipixuna do Pará,2012,1035
+150345,Ipixuna do Pará,2011,1093
+150345,Ipixuna do Pará,2010,2947
+150345,Ipixuna do Pará,2009,5805
+150345,Ipixuna do Pará,2008,3661
+150345,Ipixuna do Pará,2007,1761
+150350,Irituia,2017,1
+150350,Irituia,2015,1
+150350,Irituia,2012,2
+150350,Irituia,2011,33
+150350,Irituia,2010,52
+150350,Irituia,2009,21
+150350,Irituia,2008,7
+150350,Irituia,2007,105
+150360,Itaituba,2018,2565
+150360,Itaituba,2017,2088
+150360,Itaituba,2016,1932
+150360,Itaituba,2015,2522
+150360,Itaituba,2014,4948
+150360,Itaituba,2013,10904
+150360,Itaituba,2012,14179
+150360,Itaituba,2011,11757
+150360,Itaituba,2010,12018
+150360,Itaituba,2009,7313
+150360,Itaituba,2008,6193
+150360,Itaituba,2007,7479
+150370,Itupiranga,2018,35
+150370,Itupiranga,2017,67
+150370,Itupiranga,2016,6
+150370,Itupiranga,2015,2
+150370,Itupiranga,2014,24
+150370,Itupiranga,2013,12
+150370,Itupiranga,2012,73
+150370,Itupiranga,2011,487
+150370,Itupiranga,2010,633
+150370,Itupiranga,2009,523
+150370,Itupiranga,2008,784
+150370,Itupiranga,2007,1794
+150375,Jacareacanga,2018,906
+150375,Jacareacanga,2017,957
+150375,Jacareacanga,2016,383
+150375,Jacareacanga,2015,514
+150375,Jacareacanga,2014,720
+150375,Jacareacanga,2013,2487
+150375,Jacareacanga,2012,4912
+150375,Jacareacanga,2011,5443
+150375,Jacareacanga,2010,8264
+150375,Jacareacanga,2009,6210
+150375,Jacareacanga,2008,4522
+150375,Jacareacanga,2007,4944
+150380,Jacundá,2018,4
+150380,Jacundá,2017,3
+150380,Jacundá,2015,2
+150380,Jacundá,2014,3
+150380,Jacundá,2013,4
+150380,Jacundá,2012,160
+150380,Jacundá,2011,83
+150380,Jacundá,2010,468
+150380,Jacundá,2009,156
+150380,Jacundá,2008,276
+150380,Jacundá,2007,206
+150390,Juruti,2016,3
+150390,Juruti,2014,1
+150390,Juruti,2013,6
+150390,Juruti,2012,3
+150390,Juruti,2010,4
+150390,Juruti,2009,8
+150390,Juruti,2008,1
+150390,Juruti,2007,3
+150400,Limoeiro do Ajuru,2018,1220
+150400,Limoeiro do Ajuru,2017,456
+150400,Limoeiro do Ajuru,2016,6
+150400,Limoeiro do Ajuru,2013,100
+150400,Limoeiro do Ajuru,2012,685
+150400,Limoeiro do Ajuru,2011,487
+150400,Limoeiro do Ajuru,2010,281
+150400,Limoeiro do Ajuru,2009,12
+150400,Limoeiro do Ajuru,2008,1
+150400,Limoeiro do Ajuru,2007,1
+150405,Mãe do Rio,2011,1
+150405,Mãe do Rio,2010,2
+150405,Mãe do Rio,2009,6
+150405,Mãe do Rio,2008,4
+150405,Mãe do Rio,2007,11
+150410,Magalhães Barata,2014,2
+150410,Magalhães Barata,2013,18
+150410,Magalhães Barata,2012,91
+150410,Magalhães Barata,2011,155
+150410,Magalhães Barata,2010,5
+150410,Magalhães Barata,2009,16
+150410,Magalhães Barata,2008,67
+150410,Magalhães Barata,2007,148
+150420,Marabá,2018,9
+150420,Marabá,2017,3
+150420,Marabá,2016,10
+150420,Marabá,2015,4
+150420,Marabá,2014,15
+150420,Marabá,2013,25
+150420,Marabá,2012,151
+150420,Marabá,2011,568
+150420,Marabá,2010,885
+150420,Marabá,2009,650
+150420,Marabá,2008,762
+150420,Marabá,2007,1407
+150430,Maracanã,2018,1
+150430,Maracanã,2015,3
+150430,Maracanã,2014,14
+150430,Maracanã,2013,114
+150430,Maracanã,2012,170
+150430,Maracanã,2011,313
+150430,Maracanã,2010,34
+150430,Maracanã,2009,81
+150430,Maracanã,2008,286
+150430,Maracanã,2007,268
+150440,Marapanim,2015,1
+150440,Marapanim,2014,9
+150440,Marapanim,2013,61
+150440,Marapanim,2012,276
+150440,Marapanim,2011,514
+150440,Marapanim,2010,118
+150440,Marapanim,2009,88
+150440,Marapanim,2008,409
+150440,Marapanim,2007,397
+150442,Marituba,2017,5
+150442,Marituba,2016,2
+150442,Marituba,2015,3
+150442,Marituba,2014,3
+150442,Marituba,2013,1
+150442,Marituba,2012,5
+150442,Marituba,2011,53
+150442,Marituba,2010,2
+150442,Marituba,2009,3
+150442,Marituba,2008,4
+150442,Marituba,2007,9
+150445,Medicilândia,2018,1
+150445,Medicilândia,2014,8
+150445,Medicilândia,2013,28
+150445,Medicilândia,2012,196
+150445,Medicilândia,2011,295
+150445,Medicilândia,2010,334
+150445,Medicilândia,2009,127
+150445,Medicilândia,2008,225
+150445,Medicilândia,2007,529
+150450,Melgaço,2018,113
+150450,Melgaço,2017,138
+150450,Melgaço,2016,34
+150450,Melgaço,2015,4
+150450,Melgaço,2014,5
+150450,Melgaço,2013,15
+150450,Melgaço,2012,32
+150450,Melgaço,2011,683
+150450,Melgaço,2010,602
+150450,Melgaço,2009,44
+150450,Melgaço,2008,6
+150450,Melgaço,2007,48
+150460,Mocajuba,2018,768
+150460,Mocajuba,2017,8
+150460,Mocajuba,2016,2
+150460,Mocajuba,2015,2
+150460,Mocajuba,2014,1
+150460,Mocajuba,2013,6
+150460,Mocajuba,2012,94
+150460,Mocajuba,2011,677
+150460,Mocajuba,2010,94
+150460,Mocajuba,2009,1
+150460,Mocajuba,2008,9
+150460,Mocajuba,2007,1
+150470,Moju,2018,12
+150470,Moju,2017,1
+150470,Moju,2015,9
+150470,Moju,2014,22
+150470,Moju,2013,84
+150470,Moju,2012,905
+150470,Moju,2011,1339
+150470,Moju,2010,1380
+150470,Moju,2009,1379
+150470,Moju,2008,1919
+150470,Moju,2007,1480
+150475,Mojuí dos Campos,2018,2
+150475,Mojuí dos Campos,2014,2
+150480,Monte Alegre,2018,3
+150480,Monte Alegre,2017,4
+150480,Monte Alegre,2016,30
+150480,Monte Alegre,2015,1
+150480,Monte Alegre,2014,2
+150480,Monte Alegre,2013,3
+150480,Monte Alegre,2012,4
+150480,Monte Alegre,2011,29
+150480,Monte Alegre,2010,122
+150480,Monte Alegre,2009,48
+150480,Monte Alegre,2008,51
+150480,Monte Alegre,2007,126
+150490,Muaná,2018,283
+150490,Muaná,2017,310
+150490,Muaná,2016,38
+150490,Muaná,2015,2
+150490,Muaná,2014,1
+150490,Muaná,2013,25
+150490,Muaná,2012,406
+150490,Muaná,2011,480
+150490,Muaná,2010,574
+150490,Muaná,2009,235
+150490,Muaná,2008,211
+150490,Muaná,2007,220
+150495,Nova Esperança do Piriá,2018,85
+150495,Nova Esperança do Piriá,2017,34
+150495,Nova Esperança do Piriá,2013,9
+150495,Nova Esperança do Piriá,2012,10
+150495,Nova Esperança do Piriá,2011,129
+150495,Nova Esperança do Piriá,2010,803
+150495,Nova Esperança do Piriá,2009,1132
+150495,Nova Esperança do Piriá,2008,361
+150495,Nova Esperança do Piriá,2007,232
+150497,Nova Ipixuna,2015,1
+150497,Nova Ipixuna,2014,2
+150497,Nova Ipixuna,2013,5
+150497,Nova Ipixuna,2012,44
+150497,Nova Ipixuna,2011,94
+150497,Nova Ipixuna,2010,121
+150497,Nova Ipixuna,2009,147
+150497,Nova Ipixuna,2008,219
+150497,Nova Ipixuna,2007,289
+150500,Nova Timboteua,2012,1
+150500,Nova Timboteua,2009,1
+150500,Nova Timboteua,2008,3
+150500,Nova Timboteua,2007,1
+150503,Novo Progresso,2018,374
+150503,Novo Progresso,2017,616
+150503,Novo Progresso,2016,237
+150503,Novo Progresso,2015,168
+150503,Novo Progresso,2014,386
+150503,Novo Progresso,2013,1132
+150503,Novo Progresso,2012,1662
+150503,Novo Progresso,2011,1640
+150503,Novo Progresso,2010,2524
+150503,Novo Progresso,2009,3274
+150503,Novo Progresso,2008,1649
+150503,Novo Progresso,2007,1953
+150506,Novo Repartimento,2018,347
+150506,Novo Repartimento,2017,592
+150506,Novo Repartimento,2016,16
+150506,Novo Repartimento,2015,15
+150506,Novo Repartimento,2014,21
+150506,Novo Repartimento,2013,44
+150506,Novo Repartimento,2012,395
+150506,Novo Repartimento,2011,634
+150506,Novo Repartimento,2010,673
+150506,Novo Repartimento,2009,450
+150506,Novo Repartimento,2008,937
+150506,Novo Repartimento,2007,1626
+150510,Óbidos,2018,20
+150510,Óbidos,2017,196
+150510,Óbidos,2016,237
+150510,Óbidos,2015,159
+150510,Óbidos,2014,2
+150510,Óbidos,2013,28
+150510,Óbidos,2012,75
+150510,Óbidos,2011,191
+150510,Óbidos,2010,92
+150510,Óbidos,2009,134
+150510,Óbidos,2008,97
+150510,Óbidos,2007,121
+150520,Oeiras do Pará,2018,11169
+150520,Oeiras do Pará,2017,5600
+150520,Oeiras do Pará,2016,88
+150520,Oeiras do Pará,2014,2
+150520,Oeiras do Pará,2013,102
+150520,Oeiras do Pará,2012,5716
+150520,Oeiras do Pará,2011,13151
+150520,Oeiras do Pará,2010,16510
+150520,Oeiras do Pará,2009,66
+150520,Oeiras do Pará,2008,12
+150520,Oeiras do Pará,2007,10
+150530,Oriximiná,2018,203
+150530,Oriximiná,2017,9
+150530,Oriximiná,2016,27
+150530,Oriximiná,2015,13
+150530,Oriximiná,2014,26
+150530,Oriximiná,2013,24
+150530,Oriximiná,2012,6
+150530,Oriximiná,2011,68
+150530,Oriximiná,2010,496
+150530,Oriximiná,2009,2688
+150530,Oriximiná,2008,1356
+150530,Oriximiná,2007,1701
+150540,Ourém,2017,1
+150540,Ourém,2011,1
+150540,Ourém,2010,2
+150540,Ourém,2009,7
+150540,Ourém,2008,7
+150540,Ourém,2007,20
+150543,Ourilândia do Norte,2018,156
+150543,Ourilândia do Norte,2017,184
+150543,Ourilândia do Norte,2016,967
+150543,Ourilândia do Norte,2015,217
+150543,Ourilândia do Norte,2014,135
+150543,Ourilândia do Norte,2013,54
+150543,Ourilândia do Norte,2012,70
+150543,Ourilândia do Norte,2011,5
+150543,Ourilândia do Norte,2010,10
+150543,Ourilândia do Norte,2009,1
+150543,Ourilândia do Norte,2008,2
+150543,Ourilândia do Norte,2007,4
+150548,Pacajá,2018,451
+150548,Pacajá,2017,638
+150548,Pacajá,2016,465
+150548,Pacajá,2015,346
+150548,Pacajá,2014,505
+150548,Pacajá,2013,841
+150548,Pacajá,2012,2399
+150548,Pacajá,2011,4567
+150548,Pacajá,2010,6410
+150548,Pacajá,2009,6247
+150548,Pacajá,2008,5937
+150548,Pacajá,2007,7784
+150549,Palestina do Pará,2015,1
+150549,Palestina do Pará,2013,1
+150549,Palestina do Pará,2012,1
+150549,Palestina do Pará,2011,6
+150549,Palestina do Pará,2010,5
+150549,Palestina do Pará,2009,1
+150549,Palestina do Pará,2008,2
+150549,Palestina do Pará,2007,11
+150550,Paragominas,2018,74
+150550,Paragominas,2017,4
+150550,Paragominas,2016,1
+150550,Paragominas,2015,2
+150550,Paragominas,2014,2
+150550,Paragominas,2013,65
+150550,Paragominas,2012,553
+150550,Paragominas,2011,571
+150550,Paragominas,2010,2432
+150550,Paragominas,2009,3545
+150550,Paragominas,2008,2040
+150550,Paragominas,2007,1852
+150553,Parauapebas,2018,4
+150553,Parauapebas,2017,12
+150553,Parauapebas,2016,22
+150553,Parauapebas,2015,26
+150553,Parauapebas,2014,5
+150553,Parauapebas,2013,14
+150553,Parauapebas,2012,19
+150553,Parauapebas,2011,44
+150553,Parauapebas,2010,95
+150553,Parauapebas,2009,39
+150553,Parauapebas,2008,64
+150553,Parauapebas,2007,176
+150560,Peixe-Boi,2017,1
+150560,Peixe-Boi,2010,1
+150560,Peixe-Boi,2009,1
+150560,Peixe-Boi,2008,2
+150560,Peixe-Boi,2007,2
+150563,Piçarra,2013,1
+150563,Piçarra,2011,1
+150563,Piçarra,2008,3
+150563,Piçarra,2007,3
+150565,Placas,2018,1
+150565,Placas,2017,2
+150565,Placas,2015,10
+150565,Placas,2014,10
+150565,Placas,2013,27
+150565,Placas,2012,58
+150565,Placas,2011,129
+150565,Placas,2010,113
+150565,Placas,2009,158
+150565,Placas,2008,170
+150565,Placas,2007,19
+150570,Ponta de Pedras,2018,101
+150570,Ponta de Pedras,2017,84
+150570,Ponta de Pedras,2016,14
+150570,Ponta de Pedras,2015,5
+150570,Ponta de Pedras,2014,16
+150570,Ponta de Pedras,2013,74
+150570,Ponta de Pedras,2012,648
+150570,Ponta de Pedras,2011,323
+150570,Ponta de Pedras,2010,967
+150570,Ponta de Pedras,2009,640
+150570,Ponta de Pedras,2008,561
+150570,Ponta de Pedras,2007,252
+150580,Portel,2018,1356
+150580,Portel,2017,1455
+150580,Portel,2016,1219
+150580,Portel,2015,269
+150580,Portel,2014,299
+150580,Portel,2013,811
+150580,Portel,2012,1440
+150580,Portel,2011,2062
+150580,Portel,2010,1255
+150580,Portel,2009,2740
+150580,Portel,2008,1141
+150580,Portel,2007,1413
+150590,Porto de Moz,2018,1
+150590,Porto de Moz,2017,1
+150590,Porto de Moz,2016,2
+150590,Porto de Moz,2013,19
+150590,Porto de Moz,2012,352
+150590,Porto de Moz,2011,1544
+150590,Porto de Moz,2010,906
+150590,Porto de Moz,2009,271
+150590,Porto de Moz,2008,598
+150590,Porto de Moz,2007,486
+150600,Prainha,2018,5
+150600,Prainha,2017,7
+150600,Prainha,2016,1
+150600,Prainha,2015,1
+150600,Prainha,2013,15
+150600,Prainha,2012,373
+150600,Prainha,2011,694
+150600,Prainha,2010,984
+150600,Prainha,2009,760
+150600,Prainha,2008,1168
+150600,Prainha,2007,3211
+150610,Primavera,2011,1
+150610,Primavera,2009,30
+150610,Primavera,2008,12
+150610,Primavera,2007,4
+150611,Quatipuru,2009,10
+150611,Quatipuru,2008,4
+150611,Quatipuru,2007,8
+150613,Redenção,2018,2
+150613,Redenção,2017,3
+150613,Redenção,2016,7
+150613,Redenção,2015,9
+150613,Redenção,2014,7
+150613,Redenção,2013,15
+150613,Redenção,2012,16
+150613,Redenção,2011,1
+150613,Redenção,2010,3
+150613,Redenção,2009,2
+150613,Redenção,2008,3
+150613,Redenção,2007,13
+150616,Rio Maria,2016,2
+150616,Rio Maria,2015,2
+150616,Rio Maria,2014,1
+150616,Rio Maria,2012,1
+150616,Rio Maria,2011,1
+150616,Rio Maria,2010,2
+150616,Rio Maria,2008,1
+150616,Rio Maria,2007,3
+150618,Rondon do Pará,2017,2
+150618,Rondon do Pará,2016,1
+150618,Rondon do Pará,2015,1
+150618,Rondon do Pará,2014,1
+150618,Rondon do Pará,2013,1
+150618,Rondon do Pará,2012,70
+150618,Rondon do Pará,2011,109
+150618,Rondon do Pará,2010,223
+150618,Rondon do Pará,2009,185
+150618,Rondon do Pará,2008,236
+150618,Rondon do Pará,2007,246
+150619,Rurópolis,2018,3
+150619,Rurópolis,2017,9
+150619,Rurópolis,2016,8
+150619,Rurópolis,2015,1
+150619,Rurópolis,2014,6
+150619,Rurópolis,2013,11
+150619,Rurópolis,2012,12
+150619,Rurópolis,2011,9
+150619,Rurópolis,2010,46
+150619,Rurópolis,2009,6
+150619,Rurópolis,2008,3
+150619,Rurópolis,2007,8
+150620,Salinópolis,2013,1
+150620,Salinópolis,2012,9
+150620,Salinópolis,2011,13
+150620,Salinópolis,2010,18
+150620,Salinópolis,2009,26
+150620,Salinópolis,2008,49
+150620,Salinópolis,2007,21
+150630,Salvaterra,2017,1
+150630,Salvaterra,2014,1
+150630,Salvaterra,2012,4
+150630,Salvaterra,2011,2
+150630,Salvaterra,2009,2
+150630,Salvaterra,2008,8
+150630,Salvaterra,2007,17
+150635,Santa Bárbara do Pará,2018,1
+150635,Santa Bárbara do Pará,2017,1
+150635,Santa Bárbara do Pará,2015,1
+150635,Santa Bárbara do Pará,2014,2
+150635,Santa Bárbara do Pará,2012,4
+150635,Santa Bárbara do Pará,2011,3
+150635,Santa Bárbara do Pará,2010,2
+150635,Santa Bárbara do Pará,2009,2
+150635,Santa Bárbara do Pará,2008,1
+150635,Santa Bárbara do Pará,2007,7
+150640,Santa Cruz do Arari,2018,8
+150640,Santa Cruz do Arari,2017,12
+150640,Santa Cruz do Arari,2016,1
+150640,Santa Cruz do Arari,2013,6
+150640,Santa Cruz do Arari,2012,167
+150640,Santa Cruz do Arari,2011,513
+150640,Santa Cruz do Arari,2010,572
+150640,Santa Cruz do Arari,2009,869
+150640,Santa Cruz do Arari,2008,152
+150640,Santa Cruz do Arari,2007,12
+150650,Santa Izabel do Pará,2017,1
+150650,Santa Izabel do Pará,2016,1
+150650,Santa Izabel do Pará,2013,1
+150650,Santa Izabel do Pará,2012,4
+150650,Santa Izabel do Pará,2011,4
+150650,Santa Izabel do Pará,2010,5
+150650,Santa Izabel do Pará,2009,100
+150650,Santa Izabel do Pará,2008,153
+150650,Santa Izabel do Pará,2007,410
+150655,Santa Luzia do Pará,2018,1
+150655,Santa Luzia do Pará,2014,1
+150655,Santa Luzia do Pará,2013,3
+150655,Santa Luzia do Pará,2012,1
+150655,Santa Luzia do Pará,2010,9
+150655,Santa Luzia do Pará,2009,7
+150655,Santa Luzia do Pará,2008,5
+150655,Santa Luzia do Pará,2007,13
+150658,Santa Maria das Barreiras,2018,1
+150658,Santa Maria das Barreiras,2017,2
+150658,Santa Maria das Barreiras,2016,2
+150658,Santa Maria das Barreiras,2015,4
+150658,Santa Maria das Barreiras,2014,1
+150658,Santa Maria das Barreiras,2013,3
+150658,Santa Maria das Barreiras,2012,9
+150658,Santa Maria das Barreiras,2011,1
+150658,Santa Maria das Barreiras,2010,1
+150658,Santa Maria das Barreiras,2009,31
+150658,Santa Maria das Barreiras,2008,22
+150658,Santa Maria das Barreiras,2007,87
+150660,Santa Maria do Pará,2016,1
+150660,Santa Maria do Pará,2013,1
+150660,Santa Maria do Pará,2011,3
+150660,Santa Maria do Pará,2010,16
+150660,Santa Maria do Pará,2009,2
+150660,Santa Maria do Pará,2008,3
+150660,Santa Maria do Pará,2007,3
+150670,Santana do Araguaia,2017,1
+150670,Santana do Araguaia,2015,2
+150670,Santana do Araguaia,2014,1
+150670,Santana do Araguaia,2013,1
+150670,Santana do Araguaia,2010,6
+150670,Santana do Araguaia,2009,92
+150670,Santana do Araguaia,2008,141
+150670,Santana do Araguaia,2007,401
+150680,Santarém,2018,15
+150680,Santarém,2017,27
+150680,Santarém,2016,6
+150680,Santarém,2015,8
+150680,Santarém,2014,18
+150680,Santarém,2013,31
+150680,Santarém,2012,135
+150680,Santarém,2011,224
+150680,Santarém,2010,434
+150680,Santarém,2009,454
+150680,Santarém,2008,740
+150680,Santarém,2007,271
+150690,Santarém Novo,2012,10
+150690,Santarém Novo,2011,6
+150690,Santarém Novo,2010,61
+150690,Santarém Novo,2009,103
+150690,Santarém Novo,2008,83
+150690,Santarém Novo,2007,60
+150700,Santo Antônio do Tauá,2012,2
+150700,Santo Antônio do Tauá,2011,4
+150700,Santo Antônio do Tauá,2010,2
+150700,Santo Antônio do Tauá,2009,2
+150700,Santo Antônio do Tauá,2008,1
+150700,Santo Antônio do Tauá,2007,3
+150710,São Caetano de Odivelas,2014,1
+150710,São Caetano de Odivelas,2013,179
+150710,São Caetano de Odivelas,2012,425
+150710,São Caetano de Odivelas,2011,219
+150710,São Caetano de Odivelas,2010,2
+150710,São Caetano de Odivelas,2009,33
+150710,São Caetano de Odivelas,2008,21
+150710,São Caetano de Odivelas,2007,4
+150715,São Domingos do Araguaia,2015,1
+150715,São Domingos do Araguaia,2013,3
+150715,São Domingos do Araguaia,2012,4
+150715,São Domingos do Araguaia,2011,21
+150715,São Domingos do Araguaia,2010,21
+150715,São Domingos do Araguaia,2009,11
+150715,São Domingos do Araguaia,2008,4
+150715,São Domingos do Araguaia,2007,25
+150720,São Domingos do Capim,2018,4
+150720,São Domingos do Capim,2017,3
+150720,São Domingos do Capim,2016,1
+150720,São Domingos do Capim,2015,1
+150720,São Domingos do Capim,2014,2
+150720,São Domingos do Capim,2013,2
+150720,São Domingos do Capim,2012,14
+150720,São Domingos do Capim,2011,15
+150720,São Domingos do Capim,2010,49
+150720,São Domingos do Capim,2009,59
+150720,São Domingos do Capim,2008,37
+150720,São Domingos do Capim,2007,36
+150730,São Félix do Xingu,2018,11
+150730,São Félix do Xingu,2017,24
+150730,São Félix do Xingu,2016,336
+150730,São Félix do Xingu,2015,112
+150730,São Félix do Xingu,2014,152
+150730,São Félix do Xingu,2013,34
+150730,São Félix do Xingu,2012,492
+150730,São Félix do Xingu,2011,144
+150730,São Félix do Xingu,2010,450
+150730,São Félix do Xingu,2009,267
+150730,São Félix do Xingu,2008,171
+150730,São Félix do Xingu,2007,627
+150740,São Francisco do Pará,2017,1
+150740,São Francisco do Pará,2013,2
+150740,São Francisco do Pará,2012,1
+150740,São Francisco do Pará,2010,2
+150740,São Francisco do Pará,2009,3
+150740,São Francisco do Pará,2008,1
+150740,São Francisco do Pará,2007,1
+150745,São Geraldo do Araguaia,2017,1
+150745,São Geraldo do Araguaia,2016,2
+150745,São Geraldo do Araguaia,2012,2
+150745,São Geraldo do Araguaia,2011,2
+150745,São Geraldo do Araguaia,2010,9
+150745,São Geraldo do Araguaia,2009,8
+150745,São Geraldo do Araguaia,2008,24
+150745,São Geraldo do Araguaia,2007,61
+150746,São João da Ponta,2014,1
+150746,São João da Ponta,2013,14
+150746,São João da Ponta,2012,6
+150746,São João da Ponta,2011,7
+150746,São João da Ponta,2010,1
+150746,São João da Ponta,2009,1
+150746,São João da Ponta,2008,1
+150746,São João da Ponta,2007,5
+150747,São João de Pirabas,2012,8
+150747,São João de Pirabas,2011,13
+150747,São João de Pirabas,2010,16
+150747,São João de Pirabas,2009,165
+150747,São João de Pirabas,2008,220
+150747,São João de Pirabas,2007,110
+150750,São João do Araguaia,2017,3
+150750,São João do Araguaia,2016,3
+150750,São João do Araguaia,2015,59
+150750,São João do Araguaia,2014,57
+150750,São João do Araguaia,2013,2
+150750,São João do Araguaia,2012,12
+150750,São João do Araguaia,2011,220
+150750,São João do Araguaia,2010,309
+150750,São João do Araguaia,2009,73
+150750,São João do Araguaia,2008,14
+150750,São João do Araguaia,2007,46
+150760,São Miguel do Guamá,2018,1
+150760,São Miguel do Guamá,2017,1
+150760,São Miguel do Guamá,2016,1
+150760,São Miguel do Guamá,2012,6
+150760,São Miguel do Guamá,2011,5
+150760,São Miguel do Guamá,2010,8
+150760,São Miguel do Guamá,2009,4
+150760,São Miguel do Guamá,2008,2
+150770,São Sebastião da Boa Vista,2018,385
+150770,São Sebastião da Boa Vista,2017,1111
+150770,São Sebastião da Boa Vista,2016,1453
+150770,São Sebastião da Boa Vista,2015,1
+150770,São Sebastião da Boa Vista,2014,1
+150770,São Sebastião da Boa Vista,2013,29
+150770,São Sebastião da Boa Vista,2012,289
+150770,São Sebastião da Boa Vista,2011,1144
+150770,São Sebastião da Boa Vista,2010,1525
+150770,São Sebastião da Boa Vista,2009,153
+150770,São Sebastião da Boa Vista,2008,36
+150770,São Sebastião da Boa Vista,2007,63
+150775,Sapucaia,2010,1
+150780,Senador José Porfírio,2017,1
+150780,Senador José Porfírio,2016,3
+150780,Senador José Porfírio,2015,6
+150780,Senador José Porfírio,2014,60
+150780,Senador José Porfírio,2013,195
+150780,Senador José Porfírio,2012,732
+150780,Senador José Porfírio,2011,1295
+150780,Senador José Porfírio,2010,827
+150780,Senador José Porfírio,2009,586
+150780,Senador José Porfírio,2008,557
+150780,Senador José Porfírio,2007,1084
+150790,Soure,2018,1
+150790,Soure,2014,1
+150790,Soure,2013,5
+150790,Soure,2012,6
+150790,Soure,2011,1
+150790,Soure,2010,5
+150790,Soure,2009,4
+150790,Soure,2008,4
+150790,Soure,2007,5
+150795,Tailândia,2017,2
+150795,Tailândia,2015,1
+150795,Tailândia,2014,4
+150795,Tailândia,2013,11
+150795,Tailândia,2012,72
+150795,Tailândia,2011,141
+150795,Tailândia,2010,122
+150795,Tailândia,2009,142
+150795,Tailândia,2008,222
+150795,Tailândia,2007,202
+150796,Terra Alta,2012,1
+150796,Terra Alta,2011,1
+150796,Terra Alta,2009,1
+150796,Terra Alta,2008,3
+150797,Terra Santa,2018,1
+150797,Terra Santa,2012,1
+150797,Terra Santa,2009,7
+150797,Terra Santa,2008,8
+150797,Terra Santa,2007,1
+150800,Tomé-Açu,2018,2
+150800,Tomé-Açu,2017,2
+150800,Tomé-Açu,2014,2
+150800,Tomé-Açu,2013,24
+150800,Tomé-Açu,2012,167
+150800,Tomé-Açu,2011,182
+150800,Tomé-Açu,2010,293
+150800,Tomé-Açu,2009,96
+150800,Tomé-Açu,2008,70
+150800,Tomé-Açu,2007,77
+150803,Tracuateua,2015,1
+150803,Tracuateua,2012,1
+150803,Tracuateua,2010,1
+150803,Tracuateua,2009,10
+150803,Tracuateua,2008,8
+150803,Tracuateua,2007,9
+150805,Trairão,2018,15
+150805,Trairão,2017,4
+150805,Trairão,2016,9
+150805,Trairão,2015,15
+150805,Trairão,2014,26
+150805,Trairão,2013,192
+150805,Trairão,2012,166
+150805,Trairão,2011,138
+150805,Trairão,2010,155
+150805,Trairão,2009,275
+150805,Trairão,2008,50
+150805,Trairão,2007,328
+150808,Tucumã,2018,8
+150808,Tucumã,2017,7
+150808,Tucumã,2016,264
+150808,Tucumã,2015,198
+150808,Tucumã,2014,10
+150808,Tucumã,2013,1
+150808,Tucumã,2012,2
+150808,Tucumã,2011,1
+150808,Tucumã,2010,2
+150808,Tucumã,2008,1
+150808,Tucumã,2007,7
+150810,Tucuruí,2018,917
+150810,Tucuruí,2017,162
+150810,Tucuruí,2016,57
+150810,Tucuruí,2015,18
+150810,Tucuruí,2014,28
+150810,Tucuruí,2013,189
+150810,Tucuruí,2012,1135
+150810,Tucuruí,2011,922
+150810,Tucuruí,2010,2549
+150810,Tucuruí,2009,1090
+150810,Tucuruí,2008,965
+150810,Tucuruí,2007,1937
+150812,Ulianópolis,2016,2
+150812,Ulianópolis,2014,1
+150812,Ulianópolis,2013,1
+150812,Ulianópolis,2012,6
+150812,Ulianópolis,2011,11
+150812,Ulianópolis,2010,158
+150812,Ulianópolis,2009,21
+150812,Ulianópolis,2008,15
+150812,Ulianópolis,2007,59
+150815,Uruará,2017,7
+150815,Uruará,2016,1
+150815,Uruará,2015,2
+150815,Uruará,2014,1
+150815,Uruará,2013,16
+150815,Uruará,2012,108
+150815,Uruará,2011,244
+150815,Uruará,2010,85
+150815,Uruará,2009,109
+150815,Uruará,2008,339
+150815,Uruará,2007,222
+150820,Vigia,2017,3
+150820,Vigia,2016,1
+150820,Vigia,2015,3
+150820,Vigia,2014,2
+150820,Vigia,2013,11
+150820,Vigia,2012,14
+150820,Vigia,2011,9
+150820,Vigia,2010,2
+150820,Vigia,2009,3
+150820,Vigia,2008,11
+150820,Vigia,2007,21
+150830,Viseu,2018,2
+150830,Viseu,2015,1
+150830,Viseu,2013,1
+150830,Viseu,2012,61
+150830,Viseu,2011,492
+150830,Viseu,2010,866
+150830,Viseu,2009,686
+150830,Viseu,2008,733
+150830,Viseu,2007,1482
+150835,Vitória do Xingu,2018,1
+150835,Vitória do Xingu,2015,1
+150835,Vitória do Xingu,2014,14
+150835,Vitória do Xingu,2013,43
+150835,Vitória do Xingu,2012,144
+150835,Vitória do Xingu,2011,180
+150835,Vitória do Xingu,2010,202
+150835,Vitória do Xingu,2009,184
+150835,Vitória do Xingu,2008,205
+150835,Vitória do Xingu,2007,425
+150840,Xinguara,2016,1
+150840,Xinguara,2015,1
+150840,Xinguara,2014,3
+150840,Xinguara,2013,3
+150840,Xinguara,2012,3
+150840,Xinguara,2011,2
+150840,Xinguara,2010,3
+150840,Xinguara,2009,2
+150840,Xinguara,2008,1
+150840,Xinguara,2007,3
+160005,Serra do Navio,2018,543
+160005,Serra do Navio,2017,387
+160005,Serra do Navio,2016,895
+160005,Serra do Navio,2015,1772
+160005,Serra do Navio,2014,1029
+160005,Serra do Navio,2013,434
+160005,Serra do Navio,2012,507
+160005,Serra do Navio,2011,899
+160005,Serra do Navio,2010,489
+160005,Serra do Navio,2009,533
+160005,Serra do Navio,2008,305
+160005,Serra do Navio,2007,460
+160010,Amapá,2018,15
+160010,Amapá,2017,23
+160010,Amapá,2016,32
+160010,Amapá,2015,23
+160010,Amapá,2014,24
+160010,Amapá,2013,45
+160010,Amapá,2012,23
+160010,Amapá,2011,33
+160010,Amapá,2010,16
+160010,Amapá,2009,29
+160010,Amapá,2008,30
+160010,Amapá,2007,41
+160015,Pedra Branca do Amapari,2018,1593
+160015,Pedra Branca do Amapari,2017,1175
+160015,Pedra Branca do Amapari,2016,1607
+160015,Pedra Branca do Amapari,2015,2254
+160015,Pedra Branca do Amapari,2014,1251
+160015,Pedra Branca do Amapari,2013,778
+160015,Pedra Branca do Amapari,2012,1088
+160015,Pedra Branca do Amapari,2011,1411
+160015,Pedra Branca do Amapari,2010,714
+160015,Pedra Branca do Amapari,2009,851
+160015,Pedra Branca do Amapari,2008,806
+160015,Pedra Branca do Amapari,2007,1358
+160020,Calçoene,2018,571
+160020,Calçoene,2017,1515
+160020,Calçoene,2016,1366
+160020,Calçoene,2015,1661
+160020,Calçoene,2014,1403
+160020,Calçoene,2013,2346
+160020,Calçoene,2012,1332
+160020,Calçoene,2011,1158
+160020,Calçoene,2010,1079
+160020,Calçoene,2009,1526
+160020,Calçoene,2008,1822
+160020,Calçoene,2007,3138
+160021,Cutias,2018,14
+160021,Cutias,2017,4
+160021,Cutias,2016,7
+160021,Cutias,2015,22
+160021,Cutias,2014,40
+160021,Cutias,2013,25
+160021,Cutias,2012,60
+160021,Cutias,2011,57
+160021,Cutias,2010,7
+160021,Cutias,2009,8
+160021,Cutias,2008,4
+160021,Cutias,2007,16
+160023,Ferreira Gomes,2018,61
+160023,Ferreira Gomes,2017,141
+160023,Ferreira Gomes,2016,197
+160023,Ferreira Gomes,2015,176
+160023,Ferreira Gomes,2014,275
+160023,Ferreira Gomes,2013,257
+160023,Ferreira Gomes,2012,444
+160023,Ferreira Gomes,2011,267
+160023,Ferreira Gomes,2010,271
+160023,Ferreira Gomes,2009,323
+160023,Ferreira Gomes,2008,687
+160023,Ferreira Gomes,2007,680
+160025,Itaubal,2018,13
+160025,Itaubal,2017,14
+160025,Itaubal,2016,17
+160025,Itaubal,2015,5
+160025,Itaubal,2014,6
+160025,Itaubal,2013,8
+160025,Itaubal,2012,9
+160025,Itaubal,2011,16
+160025,Itaubal,2010,6
+160025,Itaubal,2009,11
+160025,Itaubal,2008,9
+160025,Itaubal,2007,12
+160027,Laranjal do Jari,2018,352
+160027,Laranjal do Jari,2017,323
+160027,Laranjal do Jari,2016,150
+160027,Laranjal do Jari,2015,172
+160027,Laranjal do Jari,2014,221
+160027,Laranjal do Jari,2013,295
+160027,Laranjal do Jari,2012,314
+160027,Laranjal do Jari,2011,486
+160027,Laranjal do Jari,2010,177
+160027,Laranjal do Jari,2009,138
+160027,Laranjal do Jari,2008,135
+160027,Laranjal do Jari,2007,300
+160030,Macapá,2018,1406
+160030,Macapá,2017,1346
+160030,Macapá,2016,1138
+160030,Macapá,2015,1154
+160030,Macapá,2014,1808
+160030,Macapá,2013,2599
+160030,Macapá,2012,1484
+160030,Macapá,2011,1644
+160030,Macapá,2010,1131
+160030,Macapá,2009,870
+160030,Macapá,2008,484
+160030,Macapá,2007,935
+160040,Mazagão,2018,2845
+160040,Mazagão,2017,2197
+160040,Mazagão,2016,2312
+160040,Mazagão,2015,1913
+160040,Mazagão,2014,2220
+160040,Mazagão,2013,2807
+160040,Mazagão,2012,2343
+160040,Mazagão,2011,1964
+160040,Mazagão,2010,840
+160040,Mazagão,2009,782
+160040,Mazagão,2008,1098
+160040,Mazagão,2007,1732
+160050,Oiapoque,2018,1483
+160050,Oiapoque,2017,1370
+160050,Oiapoque,2016,789
+160050,Oiapoque,2015,1094
+160050,Oiapoque,2014,706
+160050,Oiapoque,2013,1329
+160050,Oiapoque,2012,2522
+160050,Oiapoque,2011,4473
+160050,Oiapoque,2010,4180
+160050,Oiapoque,2009,3643
+160050,Oiapoque,2008,3480
+160050,Oiapoque,2007,3070
+160053,Porto Grande,2018,2257
+160053,Porto Grande,2017,1861
+160053,Porto Grande,2016,758
+160053,Porto Grande,2015,851
+160053,Porto Grande,2014,1211
+160053,Porto Grande,2013,585
+160053,Porto Grande,2012,1655
+160053,Porto Grande,2011,2523
+160053,Porto Grande,2010,2156
+160053,Porto Grande,2009,2035
+160053,Porto Grande,2008,1957
+160053,Porto Grande,2007,3021
+160055,Pracuúba,2018,6
+160055,Pracuúba,2017,16
+160055,Pracuúba,2016,18
+160055,Pracuúba,2015,35
+160055,Pracuúba,2014,22
+160055,Pracuúba,2013,26
+160055,Pracuúba,2012,29
+160055,Pracuúba,2011,56
+160055,Pracuúba,2010,9
+160055,Pracuúba,2009,30
+160055,Pracuúba,2008,67
+160055,Pracuúba,2007,41
+160060,Santana,2018,2812
+160060,Santana,2017,3651
+160060,Santana,2016,1506
+160060,Santana,2015,1420
+160060,Santana,2014,2095
+160060,Santana,2013,1125
+160060,Santana,2012,691
+160060,Santana,2011,1753
+160060,Santana,2010,1110
+160060,Santana,2009,1429
+160060,Santana,2008,1078
+160060,Santana,2007,1604
+160070,Tartarugalzinho,2018,331
+160070,Tartarugalzinho,2017,336
+160070,Tartarugalzinho,2016,735
+160070,Tartarugalzinho,2015,526
+160070,Tartarugalzinho,2014,547
+160070,Tartarugalzinho,2013,841
+160070,Tartarugalzinho,2012,548
+160070,Tartarugalzinho,2011,367
+160070,Tartarugalzinho,2010,299
+160070,Tartarugalzinho,2009,490
+160070,Tartarugalzinho,2008,266
+160070,Tartarugalzinho,2007,633
+160080,Vitória do Jari,2018,19
+160080,Vitória do Jari,2017,129
+160080,Vitória do Jari,2016,96
+160080,Vitória do Jari,2015,8
+160080,Vitória do Jari,2014,19
+160080,Vitória do Jari,2013,25
+160080,Vitória do Jari,2012,40
+160080,Vitória do Jari,2011,17
+160080,Vitória do Jari,2010,20
+160080,Vitória do Jari,2009,7
+160080,Vitória do Jari,2008,47
+160080,Vitória do Jari,2007,45
+170030,Aguiarnópolis,2007,7
+170100,Ananás,2010,1
+170130,Aragominas,2007,5
+170190,Araguacema,2008,1
+170210,Araguaína,2009,1
+170215,Araguanã,2007,1
+170220,Araguatins,2018,5
+170220,Araguatins,2017,38
+170220,Araguatins,2016,1
+170220,Araguatins,2013,6
+170220,Araguatins,2012,1
+170220,Araguatins,2011,5
+170220,Araguatins,2010,4
+170220,Araguatins,2009,1
+170220,Araguatins,2008,1
+170255,Augustinópolis,2008,1
+170255,Augustinópolis,2007,1
+170270,Aurora do Tocantins,2012,1
+170290,Axixá do Tocantins,2010,2
+170290,Axixá do Tocantins,2008,1
+170300,Babaçulândia,2009,1
+170380,Buriti do Tocantins,2008,1
+170380,Buriti do Tocantins,2007,1
+170388,Carmolândia,2007,1
+170389,Carrasco Bonito,2010,1
+170390,Caseara,2010,3
+170390,Caseara,2009,9
+170390,Caseara,2008,3
+170390,Caseara,2007,18
+170560,Conceição do Tocantins,2009,1
+170600,Couto Magalhães,2007,1
+170740,Esperantina,2009,1
+170740,Esperantina,2008,2
+170740,Esperantina,2007,1
+170950,Gurupi,2007,1
+171070,Itaguatins,2014,2
+171070,Itaguatins,2013,8
+171070,Itaguatins,2007,1
+171180,Juarina,2009,2
+171250,Marianópolis do Tocantins,2016,1
+171250,Marianópolis do Tocantins,2009,1
+171270,Mateiros,2007,1
+171280,Maurilândia do Tocantins,2016,1
+171280,Maurilândia do Tocantins,2010,1
+171330,Miranorte,2018,1
+171420,Natividade,2012,1
+171488,Nova Olinda,2007,1
+171720,Piraquê,2007,1
+171750,Pium,2007,8
+171820,Porto Nacional,2007,2
+171830,Praia Norte,2009,1
+171855,Riachinho,2008,2
+171855,Riachinho,2007,4
+171880,Sampaio,2009,1
+171884,Sandolândia,2016,1
+171900,Santa Tereza do Tocantins,2009,1
+172010,São Bento do Tocantins,2008,1
+172015,São Félix do Tocantins,2010,1
+172020,São Miguel do Tocantins,2007,1
+172030,São Sebastião do Tocantins,2010,2
+172030,São Sebastião do Tocantins,2008,5
+172030,São Sebastião do Tocantins,2007,1
+172080,Sítio Novo do Tocantins,2010,1
+172090,Taguatinga,2014,1
+172093,Taipas do Tocantins,2008,1
+172093,Taipas do Tocantins,2007,1
+172100,Palmas,2014,1
+172100,Palmas,2013,3
+172100,Palmas,2012,1
+172100,Palmas,2010,2
+172100,Palmas,2008,2
+172100,Palmas,2007,1
+172120,Tocantinópolis,2012,2
+172210,Xambioá,2016,1
+172210,Xambioá,2013,2
+172210,Xambioá,2011,1
+172210,Xambioá,2007,1
+210005,Açailândia,2012,1
+210005,Açailândia,2011,3
+210005,Açailândia,2010,4
+210005,Açailândia,2009,6
+210005,Açailândia,2007,2
+210015,Água Doce do Maranhão,2012,1
+210015,Água Doce do Maranhão,2010,1
+210015,Água Doce do Maranhão,2007,1
+210020,Alcântara,2018,1
+210020,Alcântara,2015,1
+210020,Alcântara,2014,4
+210020,Alcântara,2013,4
+210020,Alcântara,2012,34
+210020,Alcântara,2011,65
+210020,Alcântara,2010,67
+210020,Alcântara,2009,268
+210020,Alcântara,2008,246
+210020,Alcântara,2007,268
+210030,Aldeias Altas,2013,1
+210040,Altamira do Maranhão,2015,1
+210040,Altamira do Maranhão,2012,1
+210040,Altamira do Maranhão,2011,2
+210040,Altamira do Maranhão,2008,3
+210040,Altamira do Maranhão,2007,8
+210043,Alto Alegre do Maranhão,2018,1
+210043,Alto Alegre do Maranhão,2016,2
+210043,Alto Alegre do Maranhão,2015,2
+210043,Alto Alegre do Maranhão,2013,5
+210043,Alto Alegre do Maranhão,2010,101
+210043,Alto Alegre do Maranhão,2009,115
+210043,Alto Alegre do Maranhão,2008,9
+210043,Alto Alegre do Maranhão,2007,16
+210047,Alto Alegre do Pindaré,2012,1
+210047,Alto Alegre do Pindaré,2011,5
+210047,Alto Alegre do Pindaré,2010,11
+210047,Alto Alegre do Pindaré,2009,7
+210047,Alto Alegre do Pindaré,2008,9
+210047,Alto Alegre do Pindaré,2007,56
+210055,Amapá do Maranhão,2018,7
+210055,Amapá do Maranhão,2017,21
+210055,Amapá do Maranhão,2016,5
+210055,Amapá do Maranhão,2015,6
+210055,Amapá do Maranhão,2014,153
+210055,Amapá do Maranhão,2013,13
+210055,Amapá do Maranhão,2012,10
+210055,Amapá do Maranhão,2011,62
+210055,Amapá do Maranhão,2010,122
+210055,Amapá do Maranhão,2009,181
+210055,Amapá do Maranhão,2008,67
+210055,Amapá do Maranhão,2007,88
+210060,Amarante do Maranhão,2009,3
+210060,Amarante do Maranhão,2007,12
+210080,Anapurus,2011,1
+210083,Apicum-Açu,2012,10
+210083,Apicum-Açu,2011,9
+210083,Apicum-Açu,2010,15
+210083,Apicum-Açu,2009,6
+210083,Apicum-Açu,2007,1
+210087,Araguanã,2018,9
+210087,Araguanã,2017,13
+210087,Araguanã,2014,1
+210087,Araguanã,2012,2
+210087,Araguanã,2011,18
+210087,Araguanã,2010,5
+210087,Araguanã,2009,10
+210087,Araguanã,2008,54
+210087,Araguanã,2007,15
+210095,Arame,2018,1
+210095,Arame,2017,5
+210095,Arame,2015,1
+210095,Arame,2014,4
+210095,Arame,2013,1
+210095,Arame,2012,2
+210095,Arame,2011,2
+210095,Arame,2010,7
+210095,Arame,2009,6
+210095,Arame,2008,12
+210095,Arame,2007,2
+210100,Arari,2007,1
+210110,Axixá,2011,1
+210110,Axixá,2010,9
+210110,Axixá,2009,20
+210110,Axixá,2008,63
+210110,Axixá,2007,74
+210120,Bacabal,2016,4
+210120,Bacabal,2015,1
+210120,Bacabal,2013,3
+210120,Bacabal,2012,2
+210120,Bacabal,2011,23
+210120,Bacabal,2010,58
+210120,Bacabal,2009,36
+210120,Bacabal,2008,81
+210120,Bacabal,2007,56
+210125,Bacabeira,2010,1
+210125,Bacabeira,2009,2
+210130,Bacuri,2010,1
+210130,Bacuri,2009,1
+210130,Bacuri,2007,2
+210140,Balsas,2016,1
+210140,Balsas,2011,1
+210140,Balsas,2009,1
+210140,Balsas,2007,2
+210160,Barra do Corda,2018,4
+210160,Barra do Corda,2012,1
+210160,Barra do Corda,2011,2
+210160,Barra do Corda,2010,1
+210160,Barra do Corda,2009,3
+210160,Barra do Corda,2007,1
+210170,Barreirinhas,2013,1
+210170,Barreirinhas,2011,1
+210170,Barreirinhas,2010,1
+210170,Barreirinhas,2008,2
+210170,Barreirinhas,2007,1
+210173,Belágua,2010,1
+210177,Bela Vista do Maranhão,2011,1
+210177,Bela Vista do Maranhão,2010,12
+210177,Bela Vista do Maranhão,2009,16
+210177,Bela Vista do Maranhão,2008,4
+210177,Bela Vista do Maranhão,2007,7
+210180,Benedito Leite,2011,13
+210190,Bequimão,2011,2
+210190,Bequimão,2009,2
+210190,Bequimão,2008,12
+210190,Bequimão,2007,5
+210193,Bernardo do Mearim,2007,1
+210197,Boa Vista do Gurupi,2017,3
+210197,Boa Vista do Gurupi,2014,2
+210197,Boa Vista do Gurupi,2013,2
+210197,Boa Vista do Gurupi,2012,25
+210197,Boa Vista do Gurupi,2011,124
+210197,Boa Vista do Gurupi,2010,16
+210197,Boa Vista do Gurupi,2009,70
+210197,Boa Vista do Gurupi,2008,138
+210197,Boa Vista do Gurupi,2007,252
+210200,Bom Jardim,2018,2
+210200,Bom Jardim,2017,9
+210200,Bom Jardim,2016,1
+210200,Bom Jardim,2014,2
+210200,Bom Jardim,2013,3
+210200,Bom Jardim,2012,3
+210200,Bom Jardim,2011,9
+210200,Bom Jardim,2010,26
+210200,Bom Jardim,2009,18
+210200,Bom Jardim,2008,29
+210200,Bom Jardim,2007,152
+210203,Bom Jesus das Selvas,2013,1
+210203,Bom Jesus das Selvas,2012,1
+210203,Bom Jesus das Selvas,2011,6
+210203,Bom Jesus das Selvas,2010,20
+210203,Bom Jesus das Selvas,2009,3
+210203,Bom Jesus das Selvas,2008,2
+210203,Bom Jesus das Selvas,2007,1
+210210,Brejo,2012,1
+210210,Brejo,2010,2
+210210,Brejo,2009,1
+210210,Brejo,2007,2
+210215,Brejo de Areia,2017,1
+210215,Brejo de Areia,2016,1
+210215,Brejo de Areia,2015,1
+210215,Brejo de Areia,2014,3
+210215,Brejo de Areia,2013,4
+210215,Brejo de Areia,2012,34
+210215,Brejo de Areia,2011,4
+210215,Brejo de Areia,2009,2
+210220,Buriti,2015,1
+210220,Buriti,2010,1
+210220,Buriti,2008,2
+210220,Buriti,2007,2
+210230,Buriti Bravo,2010,11
+210230,Buriti Bravo,2009,15
+210232,Buriticupu,2014,14
+210232,Buriticupu,2012,5
+210232,Buriticupu,2011,1
+210232,Buriticupu,2010,27
+210232,Buriticupu,2008,1
+210232,Buriticupu,2007,4
+210235,Buritirana,2009,1
+210237,Cachoeira Grande,2011,4
+210237,Cachoeira Grande,2010,11
+210237,Cachoeira Grande,2009,22
+210237,Cachoeira Grande,2008,35
+210237,Cachoeira Grande,2007,9
+210240,Cajapió,2008,1
+210250,Cajari,2008,3
+210250,Cajari,2007,49
+210255,Campestre do Maranhão,2007,2
+210260,Cândido Mendes,2018,6
+210260,Cândido Mendes,2017,51
+210260,Cândido Mendes,2016,20
+210260,Cândido Mendes,2015,22
+210260,Cândido Mendes,2014,110
+210260,Cândido Mendes,2013,59
+210260,Cândido Mendes,2012,55
+210260,Cândido Mendes,2011,116
+210260,Cândido Mendes,2010,169
+210260,Cândido Mendes,2009,426
+210260,Cândido Mendes,2008,194
+210260,Cândido Mendes,2007,410
+210270,Cantanhede,2009,26
+210270,Cantanhede,2007,29
+210275,Capinzal do Norte,2010,1
+210275,Capinzal do Norte,2007,1
+210290,Carutapera,2015,1
+210290,Carutapera,2013,3
+210290,Carutapera,2012,1
+210290,Carutapera,2011,13
+210290,Carutapera,2010,15
+210290,Carutapera,2009,108
+210290,Carutapera,2008,13
+210290,Carutapera,2007,17
+210300,Caxias,2017,1
+210300,Caxias,2014,12
+210300,Caxias,2013,1
+210300,Caxias,2011,5
+210300,Caxias,2010,1
+210300,Caxias,2009,7
+210300,Caxias,2007,1
+210310,Cedral,2013,1
+210310,Cedral,2012,36
+210310,Cedral,2011,94
+210310,Cedral,2010,4
+210310,Cedral,2009,19
+210310,Cedral,2008,1
+210310,Cedral,2007,5
+210312,Central do Maranhão,2011,2
+210312,Central do Maranhão,2007,1
+210315,Centro do Guilherme,2015,2
+210315,Centro do Guilherme,2012,10
+210315,Centro do Guilherme,2011,8
+210315,Centro do Guilherme,2010,15
+210315,Centro do Guilherme,2009,27
+210315,Centro do Guilherme,2008,7
+210315,Centro do Guilherme,2007,36
+210317,Centro Novo do Maranhão,2018,42
+210317,Centro Novo do Maranhão,2017,33
+210317,Centro Novo do Maranhão,2016,18
+210317,Centro Novo do Maranhão,2015,2
+210317,Centro Novo do Maranhão,2014,3
+210317,Centro Novo do Maranhão,2013,6
+210317,Centro Novo do Maranhão,2012,23
+210317,Centro Novo do Maranhão,2011,138
+210317,Centro Novo do Maranhão,2010,303
+210317,Centro Novo do Maranhão,2009,609
+210317,Centro Novo do Maranhão,2008,311
+210317,Centro Novo do Maranhão,2007,615
+210320,Chapadinha,2009,2
+210325,Cidelândia,2010,1
+210330,Codó,2014,60
+210330,Codó,2013,37
+210330,Codó,2012,2
+210330,Codó,2010,1
+210330,Codó,2009,24
+210330,Codó,2008,6
+210330,Codó,2007,6
+210350,Colinas,2018,1
+210350,Colinas,2012,1
+210355,Conceição do Lago-Açu,2015,2
+210355,Conceição do Lago-Açu,2014,1
+210355,Conceição do Lago-Açu,2013,5
+210355,Conceição do Lago-Açu,2012,4
+210355,Conceição do Lago-Açu,2011,22
+210355,Conceição do Lago-Açu,2010,22
+210355,Conceição do Lago-Açu,2009,1
+210355,Conceição do Lago-Açu,2008,2
+210355,Conceição do Lago-Açu,2007,67
+210360,Coroatá,2013,1
+210360,Coroatá,2011,4
+210360,Coroatá,2010,32
+210360,Coroatá,2009,114
+210360,Coroatá,2008,2
+210360,Coroatá,2007,26
+210370,Cururupu,2010,2
+210370,Cururupu,2009,3
+210370,Cururupu,2008,1
+210375,Davinópolis,2010,3
+210375,Davinópolis,2009,1
+210375,Davinópolis,2007,7
+210380,Dom Pedro,2011,2
+210380,Dom Pedro,2010,2
+210380,Dom Pedro,2008,2
+210380,Dom Pedro,2007,2
+210390,Duque Bacelar,2008,4
+210390,Duque Bacelar,2007,1
+210400,Esperantinópolis,2016,11
+210405,Estreito,2013,3
+210405,Estreito,2011,1
+210405,Estreito,2007,10
+210409,Formosa da Serra Negra,2013,1
+210409,Formosa da Serra Negra,2009,1
+210409,Formosa da Serra Negra,2008,1
+210420,Fortuna,2013,1
+210420,Fortuna,2012,8
+210420,Fortuna,2011,11
+210420,Fortuna,2010,62
+210420,Fortuna,2009,53
+210420,Fortuna,2008,4
+210420,Fortuna,2007,1
+210430,Godofredo Viana,2018,1
+210430,Godofredo Viana,2017,3
+210430,Godofredo Viana,2014,2
+210430,Godofredo Viana,2013,2
+210430,Godofredo Viana,2012,8
+210430,Godofredo Viana,2010,8
+210430,Godofredo Viana,2009,13
+210430,Godofredo Viana,2008,5
+210430,Godofredo Viana,2007,9
+210440,Gonçalves Dias,2012,1
+210440,Gonçalves Dias,2011,19
+210440,Gonçalves Dias,2010,3
+210440,Gonçalves Dias,2009,2
+210450,Governador Archer,2011,1
+210450,Governador Archer,2010,1
+210450,Governador Archer,2007,3
+210455,Governador Edison Lobão,2017,1
+210460,Governador Eugênio Barros,2013,1
+210460,Governador Eugênio Barros,2011,1
+210460,Governador Eugênio Barros,2010,1
+210460,Governador Eugênio Barros,2009,1
+210462,Governador Luiz Rocha,2012,3
+210462,Governador Luiz Rocha,2011,1
+210462,Governador Luiz Rocha,2010,1
+210462,Governador Luiz Rocha,2009,7
+210462,Governador Luiz Rocha,2008,1
+210462,Governador Luiz Rocha,2007,5
+210465,Governador Newton Bello,2010,1
+210465,Governador Newton Bello,2009,4
+210465,Governador Newton Bello,2007,3
+210467,Governador Nunes Freire,2018,1
+210467,Governador Nunes Freire,2017,6
+210467,Governador Nunes Freire,2016,18
+210467,Governador Nunes Freire,2015,46
+210467,Governador Nunes Freire,2014,38
+210467,Governador Nunes Freire,2013,5
+210467,Governador Nunes Freire,2012,30
+210467,Governador Nunes Freire,2011,114
+210467,Governador Nunes Freire,2010,44
+210467,Governador Nunes Freire,2009,105
+210467,Governador Nunes Freire,2008,84
+210467,Governador Nunes Freire,2007,181
+210470,Graça Aranha,2009,1
+210480,Grajaú,2018,13
+210480,Grajaú,2017,1
+210480,Grajaú,2016,1
+210480,Grajaú,2015,2
+210480,Grajaú,2012,1
+210480,Grajaú,2011,4
+210480,Grajaú,2010,1
+210480,Grajaú,2009,4
+210490,Guimarães,2015,1
+210490,Guimarães,2012,20
+210490,Guimarães,2011,224
+210490,Guimarães,2010,41
+210490,Guimarães,2009,41
+210490,Guimarães,2008,15
+210490,Guimarães,2007,41
+210500,Humberto de Campos,2011,1
+210500,Humberto de Campos,2010,1
+210500,Humberto de Campos,2008,5
+210500,Humberto de Campos,2007,12
+210510,Icatu,2014,1
+210510,Icatu,2012,2
+210510,Icatu,2011,4
+210510,Icatu,2010,18
+210510,Icatu,2009,28
+210510,Icatu,2008,47
+210510,Icatu,2007,149
+210515,Igarapé do Meio,2008,1
+210515,Igarapé do Meio,2007,2
+210520,Igarapé Grande,2014,1
+210520,Igarapé Grande,2010,1
+210530,Imperatriz,2017,1
+210530,Imperatriz,2016,1
+210530,Imperatriz,2013,2
+210530,Imperatriz,2012,1
+210530,Imperatriz,2011,2
+210530,Imperatriz,2010,9
+210530,Imperatriz,2009,1
+210530,Imperatriz,2008,3
+210530,Imperatriz,2007,1
+210535,Itaipava do Grajaú,2018,3
+210535,Itaipava do Grajaú,2017,12
+210535,Itaipava do Grajaú,2016,1
+210535,Itaipava do Grajaú,2013,3
+210535,Itaipava do Grajaú,2011,1
+210535,Itaipava do Grajaú,2010,5
+210535,Itaipava do Grajaú,2009,1
+210535,Itaipava do Grajaú,2008,2
+210535,Itaipava do Grajaú,2007,1
+210540,Itapecuru Mirim,2008,4
+210540,Itapecuru Mirim,2007,16
+210542,Itinga do Maranhão,2016,1
+210542,Itinga do Maranhão,2015,2
+210542,Itinga do Maranhão,2012,1
+210542,Itinga do Maranhão,2011,5
+210542,Itinga do Maranhão,2010,9
+210542,Itinga do Maranhão,2009,5
+210542,Itinga do Maranhão,2008,5
+210542,Itinga do Maranhão,2007,3
+210545,Jatobá,2011,1
+210545,Jatobá,2010,1
+210547,Jenipapo dos Vieiras,2018,124
+210547,Jenipapo dos Vieiras,2017,10
+210547,Jenipapo dos Vieiras,2015,1
+210547,Jenipapo dos Vieiras,2008,1
+210550,João Lisboa,2009,1
+210560,Joselândia,2015,1
+210560,Joselândia,2014,3
+210560,Joselândia,2013,1
+210560,Joselândia,2012,2
+210560,Joselândia,2011,5
+210560,Joselândia,2010,4
+210560,Joselândia,2009,2
+210560,Joselândia,2008,2
+210560,Joselândia,2007,10
+210565,Junco do Maranhão,2013,1
+210565,Junco do Maranhão,2012,1
+210565,Junco do Maranhão,2011,10
+210565,Junco do Maranhão,2010,10
+210565,Junco do Maranhão,2009,76
+210565,Junco do Maranhão,2008,12
+210565,Junco do Maranhão,2007,8
+210570,Lago da Pedra,2017,2
+210570,Lago da Pedra,2016,2
+210570,Lago da Pedra,2014,4
+210570,Lago da Pedra,2013,1
+210570,Lago da Pedra,2012,4
+210570,Lago da Pedra,2011,3
+210570,Lago da Pedra,2010,14
+210570,Lago da Pedra,2009,2
+210570,Lago da Pedra,2008,2
+210570,Lago da Pedra,2007,1
+210580,Lago do Junco,2007,1
+210590,Lago Verde,2010,1
+210590,Lago Verde,2008,1
+210590,Lago Verde,2007,51
+210594,Lago dos Rodrigues,2008,1
+210596,Lagoa Grande do Maranhão,2018,5
+210596,Lagoa Grande do Maranhão,2013,2
+210596,Lagoa Grande do Maranhão,2011,2
+210596,Lagoa Grande do Maranhão,2010,15
+210596,Lagoa Grande do Maranhão,2008,1
+210598,Lajeado Novo,2013,1
+210600,Lima Campos,2014,1
+210600,Lima Campos,2010,1
+210600,Lima Campos,2007,2
+210620,Luís Domingues,2015,1
+210620,Luís Domingues,2010,29
+210620,Luís Domingues,2009,19
+210620,Luís Domingues,2007,8
+210632,Maracaçumé,2018,3
+210632,Maracaçumé,2017,8
+210632,Maracaçumé,2016,12
+210632,Maracaçumé,2015,24
+210632,Maracaçumé,2014,9
+210632,Maracaçumé,2013,9
+210632,Maracaçumé,2012,9
+210632,Maracaçumé,2011,20
+210632,Maracaçumé,2010,33
+210632,Maracaçumé,2009,72
+210632,Maracaçumé,2008,43
+210632,Maracaçumé,2007,115
+210635,Marajá do Sena,2018,8
+210635,Marajá do Sena,2016,3
+210635,Marajá do Sena,2014,1
+210635,Marajá do Sena,2013,1
+210635,Marajá do Sena,2010,2
+210635,Marajá do Sena,2009,1
+210635,Marajá do Sena,2007,3
+210637,Maranhãozinho,2018,1
+210637,Maranhãozinho,2017,1
+210637,Maranhãozinho,2016,1
+210637,Maranhãozinho,2013,2
+210637,Maranhãozinho,2012,2
+210637,Maranhãozinho,2011,4
+210637,Maranhãozinho,2010,6
+210637,Maranhãozinho,2009,5
+210637,Maranhãozinho,2008,4
+210637,Maranhãozinho,2007,10
+210640,Mata Roma,2014,1
+210640,Mata Roma,2011,1
+210650,Matinha,2011,2
+210650,Matinha,2010,1
+210650,Matinha,2008,3
+210650,Matinha,2007,1
+210660,Matões,2013,1
+210660,Matões,2009,1
+210663,Matões do Norte,2010,1
+210663,Matões do Norte,2009,15
+210663,Matões do Norte,2007,43
+210667,Milagres do Maranhão,2009,1
+210675,Miranda do Norte,2008,1
+210680,Mirinzal,2014,1
+210680,Mirinzal,2011,4
+210680,Mirinzal,2007,4
+210690,Monção,2013,1
+210690,Monção,2011,1
+210690,Monção,2010,42
+210690,Monção,2009,4
+210690,Monção,2008,6
+210690,Monção,2007,553
+210710,Morros,2010,3
+210710,Morros,2009,8
+210710,Morros,2008,4
+210710,Morros,2007,3
+210735,Nova Olinda do Maranhão,2018,2
+210735,Nova Olinda do Maranhão,2016,1
+210735,Nova Olinda do Maranhão,2015,3
+210735,Nova Olinda do Maranhão,2014,19
+210735,Nova Olinda do Maranhão,2013,2
+210735,Nova Olinda do Maranhão,2012,3
+210735,Nova Olinda do Maranhão,2011,6
+210735,Nova Olinda do Maranhão,2010,9
+210735,Nova Olinda do Maranhão,2009,18
+210735,Nova Olinda do Maranhão,2008,27
+210735,Nova Olinda do Maranhão,2007,55
+210740,Olho d'Água das Cunhãs,2014,1
+210740,Olho d'Água das Cunhãs,2013,1
+210740,Olho d'Água das Cunhãs,2012,5
+210740,Olho d'Água das Cunhãs,2011,1
+210740,Olho d'Água das Cunhãs,2007,2
+210745,Olinda Nova do Maranhão,2011,2
+210745,Olinda Nova do Maranhão,2008,1
+210745,Olinda Nova do Maranhão,2007,3
+210750,Paço do Lumiar,2016,1
+210750,Paço do Lumiar,2013,1
+210750,Paço do Lumiar,2011,1
+210750,Paço do Lumiar,2010,1
+210750,Paço do Lumiar,2008,5
+210750,Paço do Lumiar,2007,40
+210760,Palmeirândia,2013,1
+210760,Palmeirândia,2012,1
+210760,Palmeirândia,2009,1
+210760,Palmeirândia,2008,1
+210770,Paraibano,2017,1
+210770,Paraibano,2015,1
+210770,Paraibano,2011,3
+210770,Paraibano,2009,1
+210780,Parnarama,2015,1
+210780,Parnarama,2010,60
+210780,Parnarama,2009,14
+210800,Pastos Bons,2012,3
+210800,Pastos Bons,2011,1
+210810,Paulo Ramos,2014,1
+210810,Paulo Ramos,2012,2
+210810,Paulo Ramos,2010,1
+210810,Paulo Ramos,2009,6
+210810,Paulo Ramos,2008,2
+210810,Paulo Ramos,2007,5
+210820,Pedreiras,2016,1
+210820,Pedreiras,2013,1
+210820,Pedreiras,2010,3
+210820,Pedreiras,2007,2
+210825,Pedro do Rosário,2015,22
+210825,Pedro do Rosário,2014,6
+210825,Pedro do Rosário,2013,7
+210825,Pedro do Rosário,2012,3
+210825,Pedro do Rosário,2011,7
+210825,Pedro do Rosário,2010,3
+210825,Pedro do Rosário,2009,49
+210825,Pedro do Rosário,2008,27
+210825,Pedro do Rosário,2007,95
+210830,Penalva,2009,1
+210830,Penalva,2008,8
+210830,Penalva,2007,46
+210840,Peri Mirim,2011,2
+210845,Peritoró,2018,1
+210845,Peritoró,2016,3
+210845,Peritoró,2015,1
+210845,Peritoró,2014,1
+210845,Peritoró,2012,1
+210845,Peritoró,2011,2
+210845,Peritoró,2010,37
+210845,Peritoró,2009,18
+210845,Peritoró,2007,6
+210850,Pindaré-Mirim,2018,3
+210850,Pindaré-Mirim,2012,1
+210850,Pindaré-Mirim,2009,3
+210850,Pindaré-Mirim,2008,11
+210850,Pindaré-Mirim,2007,150
+210860,Pinheiro,2014,1
+210860,Pinheiro,2013,1
+210860,Pinheiro,2012,10
+210860,Pinheiro,2011,39
+210860,Pinheiro,2010,6
+210860,Pinheiro,2009,11
+210860,Pinheiro,2008,13
+210860,Pinheiro,2007,8
+210870,Pio XII,2011,1
+210870,Pio XII,2010,2
+210870,Pio XII,2009,1
+210870,Pio XII,2007,3
+210880,Pirapemas,2013,1
+210880,Pirapemas,2010,5
+210880,Pirapemas,2009,31
+210880,Pirapemas,2008,11
+210880,Pirapemas,2007,82
+210890,Poção de Pedras,2016,1
+210890,Poção de Pedras,2015,1
+210890,Poção de Pedras,2012,1
+210890,Poção de Pedras,2007,2
+210900,Porto Franco,2013,6
+210900,Porto Franco,2012,1
+210900,Porto Franco,2010,1
+210900,Porto Franco,2009,1
+210905,Porto Rico do Maranhão,2010,4
+210905,Porto Rico do Maranhão,2009,7
+210910,Presidente Dutra,2018,2
+210910,Presidente Dutra,2017,1
+210910,Presidente Dutra,2011,3
+210910,Presidente Dutra,2010,1
+210910,Presidente Dutra,2009,1
+210910,Presidente Dutra,2008,3
+210910,Presidente Dutra,2007,3
+210920,Presidente Juscelino,2012,1
+210920,Presidente Juscelino,2011,3
+210920,Presidente Juscelino,2010,38
+210920,Presidente Juscelino,2009,98
+210920,Presidente Juscelino,2008,23
+210920,Presidente Juscelino,2007,21
+210923,Presidente Médici,2016,2
+210923,Presidente Médici,2013,3
+210923,Presidente Médici,2011,8
+210923,Presidente Médici,2010,33
+210923,Presidente Médici,2009,34
+210923,Presidente Médici,2008,24
+210923,Presidente Médici,2007,15
+210927,Presidente Sarney,2014,19
+210927,Presidente Sarney,2013,116
+210927,Presidente Sarney,2012,32
+210927,Presidente Sarney,2011,219
+210927,Presidente Sarney,2010,9
+210927,Presidente Sarney,2009,118
+210927,Presidente Sarney,2008,710
+210927,Presidente Sarney,2007,113
+210930,Presidente Vargas,2014,1
+210930,Presidente Vargas,2013,8
+210930,Presidente Vargas,2011,1
+210930,Presidente Vargas,2010,1
+210930,Presidente Vargas,2009,2
+210930,Presidente Vargas,2008,1
+210930,Presidente Vargas,2007,6
+210940,Primeira Cruz,2009,3
+210945,Raposa,2011,1
+210945,Raposa,2010,3
+210945,Raposa,2009,8
+210945,Raposa,2008,54
+210945,Raposa,2007,42
+210955,Ribamar Fiquene,2013,1
+210960,Rosário,2012,2
+210960,Rosário,2011,2
+210960,Rosário,2010,12
+210960,Rosário,2009,28
+210960,Rosário,2008,17
+210960,Rosário,2007,9
+210975,Santa Filomena do Maranhão,2017,1
+210975,Santa Filomena do Maranhão,2007,1
+210980,Santa Helena,2017,26
+210980,Santa Helena,2016,1
+210980,Santa Helena,2015,3
+210980,Santa Helena,2014,43
+210980,Santa Helena,2013,40
+210980,Santa Helena,2012,167
+210980,Santa Helena,2011,408
+210980,Santa Helena,2010,27
+210980,Santa Helena,2009,113
+210980,Santa Helena,2008,296
+210980,Santa Helena,2007,123
+210990,Santa Inês,2013,1
+210990,Santa Inês,2012,3
+210990,Santa Inês,2011,16
+210990,Santa Inês,2010,23
+210990,Santa Inês,2009,11
+210990,Santa Inês,2008,14
+210990,Santa Inês,2007,15
+211000,Santa Luzia,2017,5
+211000,Santa Luzia,2014,25
+211000,Santa Luzia,2013,1
+211000,Santa Luzia,2012,9
+211000,Santa Luzia,2011,5
+211000,Santa Luzia,2010,34
+211000,Santa Luzia,2009,35
+211000,Santa Luzia,2008,57
+211000,Santa Luzia,2007,65
+211003,Santa Luzia do Paruá,2016,3
+211003,Santa Luzia do Paruá,2015,1
+211003,Santa Luzia do Paruá,2013,5
+211003,Santa Luzia do Paruá,2012,1
+211003,Santa Luzia do Paruá,2011,38
+211003,Santa Luzia do Paruá,2010,53
+211003,Santa Luzia do Paruá,2009,52
+211003,Santa Luzia do Paruá,2008,36
+211003,Santa Luzia do Paruá,2007,35
+211010,Santa Quitéria do Maranhão,2015,1
+211010,Santa Quitéria do Maranhão,2007,2
+211020,Santa Rita,2016,1
+211020,Santa Rita,2009,1
+211027,Santo Amaro do Maranhão,2008,1
+211030,Santo Antônio dos Lopes,2016,1
+211030,Santo Antônio dos Lopes,2011,1
+211030,Santo Antônio dos Lopes,2010,1
+211030,Santo Antônio dos Lopes,2009,1
+211040,São Benedito do Rio Preto,2009,2
+211050,São Bento,2009,1
+211050,São Bento,2007,5
+211070,São Domingos do Maranhão,2011,1
+211070,São Domingos do Maranhão,2010,1
+211070,São Domingos do Maranhão,2009,1
+211070,São Domingos do Maranhão,2008,12
+211070,São Domingos do Maranhão,2007,6
+211080,São Félix de Balsas,2008,1
+211090,São Francisco do Maranhão,2009,1
+211100,São João Batista,2014,1
+211100,São João Batista,2012,1
+211100,São João Batista,2010,2
+211102,São João do Carú,2012,3
+211102,São João do Carú,2010,2
+211102,São João do Carú,2009,2
+211102,São João do Carú,2008,3
+211102,São João do Carú,2007,21
+211105,São João do Paraíso,2011,1
+211107,São João do Soter,2015,1
+211107,São João do Soter,2014,7
+211107,São João do Soter,2009,3
+211107,São João do Soter,2008,5
+211110,São João dos Patos,2013,1
+211120,São José de Ribamar,2013,1
+211120,São José de Ribamar,2012,6
+211120,São José de Ribamar,2011,3
+211120,São José de Ribamar,2010,2
+211120,São José de Ribamar,2009,11
+211120,São José de Ribamar,2008,9
+211120,São José de Ribamar,2007,42
+211125,São José dos Basílios,2017,1
+211125,São José dos Basílios,2011,1
+211125,São José dos Basílios,2009,2
+211125,São José dos Basílios,2008,2
+211125,São José dos Basílios,2007,1
+211130,São Luís,2018,1
+211130,São Luís,2017,1
+211130,São Luís,2014,5
+211130,São Luís,2013,2
+211130,São Luís,2012,13
+211130,São Luís,2011,20
+211130,São Luís,2010,37
+211130,São Luís,2009,60
+211130,São Luís,2008,154
+211130,São Luís,2007,60
+211140,São Luís Gonzaga do Maranhão,2013,4
+211140,São Luís Gonzaga do Maranhão,2012,1
+211140,São Luís Gonzaga do Maranhão,2011,1
+211140,São Luís Gonzaga do Maranhão,2010,33
+211140,São Luís Gonzaga do Maranhão,2009,3
+211140,São Luís Gonzaga do Maranhão,2008,40
+211140,São Luís Gonzaga do Maranhão,2007,7
+211150,São Mateus do Maranhão,2014,1
+211150,São Mateus do Maranhão,2013,10
+211150,São Mateus do Maranhão,2011,3
+211150,São Mateus do Maranhão,2010,38
+211150,São Mateus do Maranhão,2009,145
+211150,São Mateus do Maranhão,2008,19
+211150,São Mateus do Maranhão,2007,23
+211153,São Pedro da Água Branca,2014,1
+211153,São Pedro da Água Branca,2011,3
+211153,São Pedro da Água Branca,2008,20
+211153,São Pedro da Água Branca,2007,1
+211163,São Raimundo do Doca Bezerra,2018,2
+211163,São Raimundo do Doca Bezerra,2012,1
+211167,São Roberto,2018,1
+211167,São Roberto,2016,1
+211167,São Roberto,2015,2
+211167,São Roberto,2009,1
+211170,São Vicente Ferrer,2014,1
+211172,Satubinha,2012,1
+211172,Satubinha,2011,4
+211174,Senador Alexandre Costa,2008,1
+211176,Senador La Rocque,2011,2
+211176,Senador La Rocque,2009,28
+211176,Senador La Rocque,2008,125
+211178,Serrano do Maranhão,2010,2
+211178,Serrano do Maranhão,2007,1
+211190,Sucupira do Norte,2011,2
+211190,Sucupira do Norte,2010,2
+211190,Sucupira do Norte,2009,2
+211190,Sucupira do Norte,2007,1
+211210,Timbiras,2011,4
+211210,Timbiras,2008,14
+211210,Timbiras,2007,18
+211220,Timon,2008,2
+211223,Trizidela do Vale,2014,1
+211223,Trizidela do Vale,2012,1
+211223,Trizidela do Vale,2011,1
+211227,Tufilândia,2012,2
+211227,Tufilândia,2011,4
+211227,Tufilândia,2010,6
+211227,Tufilândia,2009,7
+211227,Tufilândia,2008,1
+211227,Tufilândia,2007,16
+211230,Tuntum,2012,1
+211230,Tuntum,2011,1
+211230,Tuntum,2007,1
+211240,Turiaçu,2017,15
+211240,Turiaçu,2016,7
+211240,Turiaçu,2015,7
+211240,Turiaçu,2014,2
+211240,Turiaçu,2013,68
+211240,Turiaçu,2012,259
+211240,Turiaçu,2011,116
+211240,Turiaçu,2010,76
+211240,Turiaçu,2009,339
+211240,Turiaçu,2008,15
+211240,Turiaçu,2007,130
+211245,Turilândia,2018,6
+211245,Turilândia,2017,30
+211245,Turilândia,2016,9
+211245,Turilândia,2015,9
+211245,Turilândia,2014,30
+211245,Turilândia,2013,86
+211245,Turilândia,2012,70
+211245,Turilândia,2011,81
+211245,Turilândia,2010,56
+211245,Turilândia,2009,57
+211245,Turilândia,2008,29
+211245,Turilândia,2007,14
+211250,Tutóia,2011,2
+211250,Tutóia,2010,1
+211250,Tutóia,2008,1
+211250,Tutóia,2007,3
+211260,Urbano Santos,2008,2
+211260,Urbano Santos,2007,5
+211270,Vargem Grande,2014,1
+211270,Vargem Grande,2010,1
+211270,Vargem Grande,2008,10
+211270,Vargem Grande,2007,69
+211280,Viana,2012,1
+211280,Viana,2008,2
+211280,Viana,2007,2
+211285,Vila Nova dos Martírios,2010,16
+211285,Vila Nova dos Martírios,2008,3
+211285,Vila Nova dos Martírios,2007,1
+211290,Vitória do Mearim,2012,1
+211290,Vitória do Mearim,2011,21
+211290,Vitória do Mearim,2010,3
+211290,Vitória do Mearim,2007,3
+211300,Vitorino Freire,2018,1
+211300,Vitorino Freire,2014,1
+211300,Vitorino Freire,2012,2
+211300,Vitorino Freire,2011,1
+211300,Vitorino Freire,2010,1
+211300,Vitorino Freire,2009,1
+211300,Vitorino Freire,2007,6
+211400,Zé Doca,2018,41
+211400,Zé Doca,2017,81
+211400,Zé Doca,2014,4
+211400,Zé Doca,2013,1
+211400,Zé Doca,2012,9
+211400,Zé Doca,2011,65
+211400,Zé Doca,2010,229
+211400,Zé Doca,2009,18
+211400,Zé Doca,2008,6
+211400,Zé Doca,2007,11
+510010,Acorizal,2010,3
+510010,Acorizal,2009,1
+510010,Acorizal,2008,2
+510010,Acorizal,2007,1
+510020,Água Boa,2014,2
+510020,Água Boa,2013,1
+510020,Água Boa,2011,26
+510020,Água Boa,2010,31
+510025,Alta Floresta,2015,4
+510025,Alta Floresta,2014,3
+510025,Alta Floresta,2013,8
+510025,Alta Floresta,2012,8
+510025,Alta Floresta,2011,6
+510025,Alta Floresta,2010,11
+510025,Alta Floresta,2009,5
+510025,Alta Floresta,2008,6
+510025,Alta Floresta,2007,7
+510030,Alto Araguaia,2018,1
+510030,Alto Araguaia,2008,2
+510035,Alto Boa Vista,2010,1
+510060,Alto Taquari,2015,1
+510060,Alto Taquari,2014,1
+510080,Apiacás,2018,1
+510080,Apiacás,2017,1
+510080,Apiacás,2015,1
+510080,Apiacás,2014,4
+510080,Apiacás,2013,20
+510080,Apiacás,2012,29
+510080,Apiacás,2011,127
+510080,Apiacás,2010,36
+510080,Apiacás,2009,26
+510080,Apiacás,2008,11
+510080,Apiacás,2007,70
+510100,Araguaiana,2013,1
+510130,Arenápolis,2011,1
+510140,Aripuanã,2018,180
+510140,Aripuanã,2017,95
+510140,Aripuanã,2016,23
+510140,Aripuanã,2015,8
+510140,Aripuanã,2014,28
+510140,Aripuanã,2013,41
+510140,Aripuanã,2012,100
+510140,Aripuanã,2011,201
+510140,Aripuanã,2010,249
+510140,Aripuanã,2009,392
+510140,Aripuanã,2008,499
+510140,Aripuanã,2007,889
+510170,Barra do Bugres,2017,1
+510170,Barra do Bugres,2013,1
+510170,Barra do Bugres,2011,1
+510170,Barra do Bugres,2010,1
+510170,Barra do Bugres,2009,1
+510170,Barra do Bugres,2008,2
+510170,Barra do Bugres,2007,6
+510185,Bom Jesus do Araguaia,2010,2
+510185,Bom Jesus do Araguaia,2008,1
+510190,Brasnorte,2017,1
+510190,Brasnorte,2016,1
+510190,Brasnorte,2014,1
+510190,Brasnorte,2013,5
+510190,Brasnorte,2012,7
+510190,Brasnorte,2011,15
+510190,Brasnorte,2010,12
+510190,Brasnorte,2009,21
+510190,Brasnorte,2008,70
+510190,Brasnorte,2007,283
+510250,Cáceres,2017,1
+510250,Cáceres,2014,1
+510250,Cáceres,2012,2
+510250,Cáceres,2011,2
+510250,Cáceres,2010,1
+510250,Cáceres,2009,3
+510250,Cáceres,2008,3
+510250,Cáceres,2007,6
+510260,Campinápolis,2010,3
+510260,Campinápolis,2009,1
+510263,Campo Novo do Parecis,2014,1
+510263,Campo Novo do Parecis,2013,2
+510263,Campo Novo do Parecis,2012,1
+510263,Campo Novo do Parecis,2011,1
+510263,Campo Novo do Parecis,2010,1
+510263,Campo Novo do Parecis,2009,4
+510263,Campo Novo do Parecis,2008,3
+510263,Campo Novo do Parecis,2007,5
+510267,Campo Verde,2014,2
+510268,Campos de Júlio,2012,2
+510268,Campos de Júlio,2010,8
+510268,Campos de Júlio,2009,27
+510268,Campos de Júlio,2008,1
+510268,Campos de Júlio,2007,1
+510269,Canabrava do Norte,2010,1
+510270,Canarana,2018,1
+510279,Carlinda,2010,2
+510285,Castanheira,2012,1
+510285,Castanheira,2011,2
+510285,Castanheira,2010,1
+510285,Castanheira,2009,3
+510285,Castanheira,2008,19
+510285,Castanheira,2007,14
+510300,Chapada dos Guimarães,2013,1
+510300,Chapada dos Guimarães,2012,2
+510300,Chapada dos Guimarães,2010,1
+510300,Chapada dos Guimarães,2009,1
+510300,Chapada dos Guimarães,2007,1
+510305,Cláudia,2012,1
+510305,Cláudia,2010,2
+510305,Cláudia,2009,1
+510305,Cláudia,2007,5
+510310,Cocalinho,2016,2
+510310,Cocalinho,2015,2
+510310,Cocalinho,2008,2
+510320,Colíder,2016,1
+510320,Colíder,2013,2
+510320,Colíder,2012,8
+510320,Colíder,2011,4
+510320,Colíder,2010,1
+510320,Colíder,2009,1
+510320,Colíder,2008,1
+510320,Colíder,2007,1
+510325,Colniza,2018,754
+510325,Colniza,2017,462
+510325,Colniza,2016,455
+510325,Colniza,2015,1042
+510325,Colniza,2014,829
+510325,Colniza,2013,689
+510325,Colniza,2012,614
+510325,Colniza,2011,912
+510325,Colniza,2010,1260
+510325,Colniza,2009,2051
+510325,Colniza,2008,2586
+510325,Colniza,2007,4942
+510330,Comodoro,2018,39
+510330,Comodoro,2014,1
+510330,Comodoro,2013,1
+510330,Comodoro,2012,2
+510330,Comodoro,2011,6
+510330,Comodoro,2010,26
+510330,Comodoro,2009,167
+510330,Comodoro,2008,6
+510330,Comodoro,2007,17
+510335,Confresa,2012,1
+510335,Confresa,2010,2
+510335,Confresa,2009,2
+510335,Confresa,2007,1
+510336,Conquista D'Oeste,2010,3
+510336,Conquista D'Oeste,2009,4
+510336,Conquista D'Oeste,2008,1
+510337,Cotriguaçu,2017,1
+510337,Cotriguaçu,2014,1
+510337,Cotriguaçu,2013,2
+510337,Cotriguaçu,2011,1
+510337,Cotriguaçu,2010,2
+510337,Cotriguaçu,2009,1
+510337,Cotriguaçu,2008,8
+510337,Cotriguaçu,2007,7
+510340,Cuiabá,2018,2
+510340,Cuiabá,2017,4
+510340,Cuiabá,2015,4
+510340,Cuiabá,2014,8
+510340,Cuiabá,2013,4
+510340,Cuiabá,2012,11
+510340,Cuiabá,2011,7
+510340,Cuiabá,2010,15
+510340,Cuiabá,2009,10
+510340,Cuiabá,2008,16
+510340,Cuiabá,2007,21
+510350,Diamantino,2014,1
+510350,Diamantino,2009,1
+510360,Dom Aquino,2015,1
+510370,Feliz Natal,2011,1
+510370,Feliz Natal,2010,5
+510370,Feliz Natal,2009,8
+510370,Feliz Natal,2008,7
+510370,Feliz Natal,2007,45
+510385,Gaúcha do Norte,2015,1
+510385,Gaúcha do Norte,2009,1
+510385,Gaúcha do Norte,2008,2
+510385,Gaúcha do Norte,2007,10
+510390,General Carneiro,2009,2
+510390,General Carneiro,2008,1
+510395,Glória D'Oeste,2008,1
+510410,Guarantã do Norte,2016,1
+510410,Guarantã do Norte,2015,5
+510410,Guarantã do Norte,2014,1
+510410,Guarantã do Norte,2013,3
+510410,Guarantã do Norte,2012,5
+510410,Guarantã do Norte,2011,5
+510410,Guarantã do Norte,2010,7
+510410,Guarantã do Norte,2009,35
+510410,Guarantã do Norte,2008,8
+510410,Guarantã do Norte,2007,13
+510420,Guiratinga,2018,2
+510420,Guiratinga,2017,1
+510420,Guiratinga,2016,1
+510420,Guiratinga,2015,1
+510420,Guiratinga,2014,3
+510420,Guiratinga,2011,1
+510420,Guiratinga,2009,1
+510420,Guiratinga,2007,1
+510452,Ipiranga do Norte,2017,1
+510452,Ipiranga do Norte,2008,1
+510454,Itanhangá,2011,2
+510454,Itanhangá,2010,1
+510454,Itanhangá,2007,1
+510455,Itaúba,2015,2
+510455,Itaúba,2014,3
+510455,Itaúba,2012,2
+510455,Itaúba,2007,12
+510460,Itiquira,2011,2
+510460,Itiquira,2009,1
+510480,Jaciara,2010,1
+510500,Jauru,2009,1
+510510,Juara,2012,5
+510510,Juara,2011,4
+510510,Juara,2010,3
+510510,Juara,2009,7
+510510,Juara,2008,22
+510510,Juara,2007,131
+510515,Juína,2018,16
+510515,Juína,2016,1
+510515,Juína,2015,4
+510515,Juína,2014,4
+510515,Juína,2012,3
+510515,Juína,2011,13
+510515,Juína,2010,26
+510515,Juína,2009,272
+510515,Juína,2008,128
+510515,Juína,2007,353
+510517,Juruena,2015,2
+510517,Juruena,2011,6
+510517,Juruena,2010,5
+510517,Juruena,2009,4
+510517,Juruena,2008,22
+510517,Juruena,2007,14
+510520,Juscimeira,2011,1
+510520,Juscimeira,2007,1
+510525,Lucas do Rio Verde,2017,1
+510525,Lucas do Rio Verde,2016,1
+510525,Lucas do Rio Verde,2013,1
+510525,Lucas do Rio Verde,2011,4
+510525,Lucas do Rio Verde,2010,138
+510525,Lucas do Rio Verde,2009,1
+510525,Lucas do Rio Verde,2008,58
+510525,Lucas do Rio Verde,2007,103
+510550,Vila Bela da Santíssima Trindade,2010,5
+510550,Vila Bela da Santíssima Trindade,2009,4
+510550,Vila Bela da Santíssima Trindade,2008,1
+510550,Vila Bela da Santíssima Trindade,2007,2
+510558,Marcelândia,2012,2
+510558,Marcelândia,2011,1
+510558,Marcelândia,2010,1
+510558,Marcelândia,2009,3
+510558,Marcelândia,2008,2
+510558,Marcelândia,2007,51
+510560,Matupá,2018,1
+510560,Matupá,2017,5
+510560,Matupá,2015,2
+510560,Matupá,2013,4
+510560,Matupá,2012,1
+510560,Matupá,2011,2
+510560,Matupá,2010,5
+510560,Matupá,2008,1
+510560,Matupá,2007,2
+510562,Mirassol d'Oeste,2018,1
+510562,Mirassol d'Oeste,2015,1
+510562,Mirassol d'Oeste,2010,1
+510562,Mirassol d'Oeste,2009,1
+510590,Nobres,2013,1
+510590,Nobres,2012,1
+510590,Nobres,2009,2
+510615,Nova Bandeirantes,2018,1
+510615,Nova Bandeirantes,2017,10
+510615,Nova Bandeirantes,2016,74
+510615,Nova Bandeirantes,2015,94
+510615,Nova Bandeirantes,2014,54
+510615,Nova Bandeirantes,2013,158
+510615,Nova Bandeirantes,2012,16
+510615,Nova Bandeirantes,2011,99
+510615,Nova Bandeirantes,2010,56
+510615,Nova Bandeirantes,2009,2
+510615,Nova Bandeirantes,2008,5
+510615,Nova Bandeirantes,2007,11
+510617,Nova Nazaré,2017,1
+510617,Nova Nazaré,2008,1
+510618,Nova Lacerda,2018,2
+510618,Nova Lacerda,2012,4
+510618,Nova Lacerda,2011,5
+510618,Nova Lacerda,2010,43
+510618,Nova Lacerda,2009,20
+510618,Nova Lacerda,2008,2
+510618,Nova Lacerda,2007,9
+510619,Nova Santa Helena,2010,1
+510619,Nova Santa Helena,2009,2
+510620,Nova Brasilândia,2008,1
+510621,Nova Canaã do Norte,2010,1
+510621,Nova Canaã do Norte,2009,1
+510622,Nova Mutum,2012,3
+510622,Nova Mutum,2011,2
+510622,Nova Mutum,2010,9
+510622,Nova Mutum,2007,4
+510623,Nova Olímpia,2012,3
+510623,Nova Olímpia,2007,1
+510624,Nova Ubiratã,2012,1
+510624,Nova Ubiratã,2011,1
+510624,Nova Ubiratã,2008,4
+510624,Nova Ubiratã,2007,119
+510625,Nova Xavantina,2014,1
+510625,Nova Xavantina,2007,1
+510626,Novo Mundo,2018,1
+510626,Novo Mundo,2017,1
+510626,Novo Mundo,2015,2
+510626,Novo Mundo,2014,5
+510626,Novo Mundo,2013,18
+510626,Novo Mundo,2012,2
+510626,Novo Mundo,2011,3
+510626,Novo Mundo,2009,2
+510626,Novo Mundo,2008,2
+510627,Novo Horizonte do Norte,2013,1
+510627,Novo Horizonte do Norte,2009,1
+510627,Novo Horizonte do Norte,2008,2
+510627,Novo Horizonte do Norte,2007,1
+510629,Paranaíta,2015,1
+510629,Paranaíta,2014,1
+510629,Paranaíta,2013,5
+510629,Paranaíta,2012,1
+510629,Paranaíta,2011,2
+510629,Paranaíta,2010,3
+510629,Paranaíta,2008,1
+510629,Paranaíta,2007,12
+510630,Paranatinga,2018,2
+510630,Paranatinga,2016,1
+510630,Paranatinga,2009,1
+510630,Paranatinga,2007,1
+510637,Pedra Preta,2012,1
+510642,Peixoto de Azevedo,2016,3
+510642,Peixoto de Azevedo,2015,1
+510642,Peixoto de Azevedo,2014,5
+510642,Peixoto de Azevedo,2013,20
+510642,Peixoto de Azevedo,2012,16
+510642,Peixoto de Azevedo,2011,3
+510642,Peixoto de Azevedo,2010,25
+510642,Peixoto de Azevedo,2009,9
+510642,Peixoto de Azevedo,2008,4
+510642,Peixoto de Azevedo,2007,8
+510650,Poconé,2015,1
+510650,Poconé,2013,2
+510650,Poconé,2012,2
+510650,Poconé,2011,5
+510650,Poconé,2010,2
+510665,Pontal do Araguaia,2010,1
+510665,Pontal do Araguaia,2007,1
+510675,Pontes e Lacerda,2017,1
+510675,Pontes e Lacerda,2016,2
+510675,Pontes e Lacerda,2015,1
+510675,Pontes e Lacerda,2011,1
+510675,Pontes e Lacerda,2010,3
+510675,Pontes e Lacerda,2009,1
+510675,Pontes e Lacerda,2008,4
+510675,Pontes e Lacerda,2007,6
+510677,Porto Alegre do Norte,2018,1
+510680,Porto dos Gaúchos,2010,1
+510680,Porto dos Gaúchos,2007,1
+510704,Primavera do Leste,2008,1
+510706,Querência,2014,3
+510706,Querência,2013,2
+510706,Querência,2011,8
+510706,Querência,2009,2
+510706,Querência,2008,2
+510706,Querência,2007,8
+510715,Reserva do Cabaçal,2008,1
+510718,Ribeirão Cascalheira,2011,3
+510718,Ribeirão Cascalheira,2010,8
+510719,Ribeirãozinho,2014,2
+510719,Ribeirãozinho,2011,1
+510719,Ribeirãozinho,2009,7
+510720,Rio Branco,2007,1
+510724,Santa Carmem,2010,1
+510726,Santo Afonso,2011,1
+510726,Santo Afonso,2010,1
+510729,São José do Povo,2008,1
+510730,São José do Rio Claro,2015,1
+510730,São José do Rio Claro,2010,1
+510730,São José do Rio Claro,2009,1
+510730,São José do Rio Claro,2008,19
+510730,São José do Rio Claro,2007,17
+510735,São José do Xingu,2018,1
+510735,São José do Xingu,2015,1
+510735,São José do Xingu,2013,5
+510735,São José do Xingu,2011,1
+510757,Rondolândia,2017,5
+510757,Rondolândia,2016,4
+510757,Rondolândia,2015,8
+510757,Rondolândia,2014,17
+510757,Rondolândia,2013,92
+510757,Rondolândia,2012,34
+510757,Rondolândia,2011,30
+510757,Rondolândia,2010,25
+510757,Rondolândia,2009,50
+510757,Rondolândia,2008,150
+510757,Rondolândia,2007,542
+510760,Rondonópolis,2018,2
+510760,Rondonópolis,2017,1
+510760,Rondonópolis,2012,1
+510760,Rondonópolis,2011,8
+510760,Rondonópolis,2010,2
+510760,Rondonópolis,2009,1
+510760,Rondonópolis,2007,3
+510770,Rosário Oeste,2013,1
+510774,Santa Cruz do Xingu,2010,1
+510774,Santa Cruz do Xingu,2007,1
+510775,Salto do Céu,2009,1
+510776,Santa Rita do Trivelato,2007,1
+510777,Santa Terezinha,2008,1
+510779,Santo Antônio do Leste,2012,1
+510780,Santo Antônio do Leverger,2013,1
+510780,Santo Antônio do Leverger,2007,4
+510785,São Félix do Araguaia,2015,1
+510785,São Félix do Araguaia,2014,1
+510785,São Félix do Araguaia,2010,2
+510785,São Félix do Araguaia,2009,1
+510785,São Félix do Araguaia,2007,1
+510787,Sapezal,2015,1
+510787,Sapezal,2013,1
+510787,Sapezal,2012,3
+510787,Sapezal,2011,3
+510787,Sapezal,2010,17
+510787,Sapezal,2009,81
+510787,Sapezal,2008,2
+510787,Sapezal,2007,3
+510788,Serra Nova Dourada,2018,1
+510788,Serra Nova Dourada,2007,2
+510790,Sinop,2018,1
+510790,Sinop,2017,2
+510790,Sinop,2016,1
+510790,Sinop,2015,2
+510790,Sinop,2013,35
+510790,Sinop,2012,173
+510790,Sinop,2011,28
+510790,Sinop,2010,105
+510790,Sinop,2009,10
+510790,Sinop,2008,20
+510790,Sinop,2007,90
+510792,Sorriso,2016,1
+510792,Sorriso,2013,1
+510792,Sorriso,2011,3
+510792,Sorriso,2010,5
+510792,Sorriso,2009,2
+510792,Sorriso,2008,8
+510792,Sorriso,2007,12
+510794,Tabaporã,2007,1
+510795,Tangará da Serra,2014,1
+510795,Tangará da Serra,2012,1
+510795,Tangará da Serra,2010,1
+510795,Tangará da Serra,2009,2
+510795,Tangará da Serra,2008,2
+510795,Tangará da Serra,2007,1
+510800,Tapurah,2010,2
+510800,Tapurah,2009,1
+510800,Tapurah,2007,3
+510805,Terra Nova do Norte,2015,1
+510805,Terra Nova do Norte,2013,3
+510805,Terra Nova do Norte,2012,1
+510805,Terra Nova do Norte,2011,4
+510805,Terra Nova do Norte,2009,2
+510805,Terra Nova do Norte,2008,1
+510805,Terra Nova do Norte,2007,1
+510820,Torixoréu,2011,1
+510820,Torixoréu,2009,2
+510820,Torixoréu,2008,1
+510830,União do Sul,2014,1
+510830,União do Sul,2007,2
+510835,Vale de São Domingos,2010,1
+510835,Vale de São Domingos,2007,1
+510840,Várzea Grande,2011,4
+510840,Várzea Grande,2010,1
+510840,Várzea Grande,2008,4
+510850,Vera,2007,3
+510860,Vila Rica,2016,1
+510860,Vila Rica,2010,1
+510860,Vila Rica,2009,1
+510860,Vila Rica,2008,3
+510860,Vila Rica,2007,1
+510880,Nova Guarita,2017,1
+510880,Nova Guarita,2015,3
+510880,Nova Guarita,2014,3
+510880,Nova Guarita,2013,4
+510880,Nova Guarita,2012,4
+510880,Nova Guarita,2011,24
+510880,Nova Guarita,2010,1
+510880,Nova Guarita,2009,1
+510880,Nova Guarita,2008,1
+510885,Nova Marilândia,2009,1
+510890,Nova Maringá,2013,1
+510890,Nova Maringá,2010,2
+510890,Nova Maringá,2009,4
+510890,Nova Maringá,2008,5
+510890,Nova Maringá,2007,7
+510895,Nova Monte Verde,2017,1
+510895,Nova Monte Verde,2008,1
